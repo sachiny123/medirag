@@ -1,6 +1,6 @@
 Disease: Osteoarthristis
 
-Symptoms: painful walking, swelling joints, neck pain, hip joint pain, knee pain, joint pain.
+Symptoms: joint pain, knee pain, swelling joints, hip joint pain, neck pain, painful walking.
 
 Description: Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time.
 

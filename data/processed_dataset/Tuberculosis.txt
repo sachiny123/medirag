@@ -1,6 +1,6 @@
 Disease: Tuberculosis
 
-Symptoms: chest pain, swelled lymph nodes, weight loss, high fever, breathlessness, sweating, fatigue, blood in sputum, yellowing of eyes, loss of appetite, chills, vomiting, mild fever, phlegm, cough, malaise.
+Symptoms: phlegm, weight loss, chills, breathlessness, sweating, high fever, swelled lymph nodes, blood in sputum, mild fever, malaise, chest pain, yellowing of eyes, fatigue, cough, loss of appetite, vomiting.
 
 Description: Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis.
 

@@ -1,6 +1,6 @@
 Disease: Typhoid
 
-Symptoms: headache, high fever, abdominal pain, belly pain, fatigue, diarrhoea, toxic look (typhos), chills, vomiting, nausea, constipation.
+Symptoms: diarrhoea, belly pain, chills, nausea, high fever, headache, constipation, fatigue, vomiting, toxic look (typhos), abdominal pain.
 
 Description: An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe.
 

@@ -1,6 +1,6 @@
 Disease: Urinary tract infection
 
-Symptoms: bladder discomfort, burning micturition, continuous feel of urine, foul smell of urine.
+Symptoms: foul smell of urine, bladder discomfort, burning micturition, continuous feel of urine.
 
 Description: Urinary tract infection: An infection of the kidney, ureter, bladder, or urethra. Abbreviated UTI. Not everyone with a UTI has symptoms, but common symptoms include a frequent urge to urinate and pain or burning when urinating.
 

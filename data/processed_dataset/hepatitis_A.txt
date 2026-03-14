@@ -1,6 +1,6 @@
 Disease: hepatitis A
 
-Symptoms: yellowish skin, abdominal pain, diarrhoea, yellowing of eyes, loss of appetite, dark urine, vomiting, mild fever, nausea, muscle pain, joint pain.
+Symptoms: muscle pain, joint pain, yellowish skin, diarrhoea, nausea, mild fever, yellowing of eyes, dark urine, loss of appetite, vomiting, abdominal pain.
 
 Description: Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function.
 

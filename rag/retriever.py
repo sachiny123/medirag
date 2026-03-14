@@ -3,6 +3,7 @@ import numpy as np
 import os
 import pickle
 import wikipedia
+from typing import List, Optional, Dict, Any
 
 class Retriever:
     def __init__(self, index_path="vector_db/faiss_index.bin", meta_path="vector_db/meta.pkl"):
@@ -70,12 +71,32 @@ class Retriever:
                 results.append(meta["text"])
                 sources.append(meta["source"])
         
-        # Hybrid retrieval fallback
-        if best_score > fallback_threshold or len(results) == 0:
-            print(f"Similarity score ({best_score}) too high/low results. Fetching Wikipedia fallback...")
-            wiki_results, wiki_sources, wiki_scores = self.fetch_wikipedia_fallback(query_text)
-            results.extend(wiki_results)
-            sources.extend(wiki_sources)
-            scores.extend(wiki_scores)
+        # Instant RAG Optimization: Disable slow Wikipedia network fallback
+        if len(results) == 0:
+            print(f"No results found in local database for query: {query_text}")
             
         return results, sources, scores
+    def retrieve_agentic(self, embedder, generator, query_text: str, patient_info: Optional[Dict[str, Any]] = None, top_k=10, final_top_k=3):
+        """Agentic Retrieval: HyDE -> Vector Search -> LLM Reranking."""
+        print(f"[Agentic] Pass 1: Generating HyDE clinical document...")
+        hyde_doc = generator.generate_hyde_query(query_text, patient_info)
+        
+        print(f"[Agentic] Pass 2: Vector Search with HyDE...")
+        hyde_embedding = embedder.embed_query(hyde_doc)
+        results, sources, scores = self.retrieve(hyde_embedding, query_text, top_k=top_k)
+        
+        if not results:
+            return [], [], []
+            
+        print(f"[Agentic] Pass 3: Reranking {len(results)} documents...")
+        reranked_results = generator.rerank_documents(query_text, results, top_n=final_top_k)
+        
+        # Map back to original sources
+        final_sources = []
+        for res in reranked_results:
+            for i, orig_res in enumerate(results):
+                if res == orig_res:
+                    final_sources.append(sources[i])
+                    break
+        
+        return reranked_results, final_sources, scores[:len(reranked_results)]

@@ -1,6 +1,6 @@
 Disease: Hepatitis C
 
-Symptoms: yellowish skin, family history, fatigue, yellowing of eyes, loss of appetite, nausea.
+Symptoms: family history, yellowish skin, nausea, yellowing of eyes, fatigue, loss of appetite.
 
 Description: Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer.
 

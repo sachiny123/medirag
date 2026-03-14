@@ -1,6 +1,6 @@
 Disease: Hepatitis B
 
-Symptoms: yellowish skin, receiving blood transfusion, lethargy, fatigue, yellowing of eyes, loss of appetite, receiving unsterile injections, dark urine, itching, yellow urine, abdominal pain, malaise.
+Symptoms: yellowish skin, itching, receiving unsterile injections, lethargy, receiving blood transfusion, yellow urine, malaise, yellowing of eyes, dark urine, fatigue, loss of appetite, abdominal pain.
 
 Description: Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus.
 

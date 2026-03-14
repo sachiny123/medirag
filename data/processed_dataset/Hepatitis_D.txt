@@ -1,6 +1,6 @@
 Disease: Hepatitis D
 
-Symptoms: yellowish skin, abdominal pain, fatigue, yellowing of eyes, loss of appetite, dark urine, vomiting, nausea, joint pain.
+Symptoms: joint pain, yellowish skin, nausea, yellowing of eyes, dark urine, fatigue, loss of appetite, vomiting, abdominal pain.
 
 Description: Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV).
 

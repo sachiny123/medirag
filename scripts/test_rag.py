@@ -14,9 +14,11 @@ from rag.generator import GeminiGenerator
 
 def test_local_pipeline(query="itchy red rash on arm with mild fever"):
     print("\n--- Testing RAG Pipeline Modules Locally ---")
-    image_analysis = "red inflamed rash"
+    
+    patient_info = {"name": "Test User", "age": 30, "gender": "male"}
     
     print(f"Querying: '{query}'")
+    print(f"Patient: {patient_info}")
     
     try:
         base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
@@ -30,11 +32,11 @@ def test_local_pipeline(query="itchy red rash on arm with mild fever"):
         )
         docs, sources, scores = retriever.retrieve(query_embedding, query)
         
-        context = build_context(docs, query, image_analysis)
+        context = build_context(docs, query, patient_info=patient_info)
         print("\nContext built successfully.")
         
         generator = GeminiGenerator()
-        response = generator.generate(context, query)
+        response = generator.generate(context, query, patient_info=patient_info)
         
         print("\nPipeline Result:")
         print(json.dumps(response, indent=2))
@@ -44,15 +46,20 @@ def test_local_pipeline(query="itchy red rash on arm with mild fever"):
     except Exception as e:
         print(f"Pipeline test failed: {e}")
 
-def test_api(query="itchy red rash on arm with mild fever"):
+def test_api(query="headache and mild fever"):
     print("\n--- Testing API Endpoint ---")
-    url = "http://localhost:8000/rag/analyze"
+    url = "http://127.0.0.1:8001/rag/analyze"
     payload = {
-        "symptoms": query,
-        "image_analysis": "red inflamed rash"
+        "name": "Test User",
+        "age": 30,
+        "gender": "male",
+        "symptoms_name": query,
+        "pain_intensity": 5,
+        "symptom_duration": "2 days",
+        "additional_notes": "Started after getting wet in rain"
     }
     
-    print(f"Sending API Query: '{query}'")
+    print(f"Sending API Query: {json.dumps(payload, indent=2)}")
     try:
         response = requests.post(url, json=payload)
         response.raise_for_status()
@@ -60,14 +67,14 @@ def test_api(query="itchy red rash on arm with mild fever"):
         print(json.dumps(response.json(), indent=2))
         
         print("\n--- Testing API Report Endpoint ---")
-        report_url = "http://localhost:8000/rag/report"
+        report_url = "http://127.0.0.1:8001/rag/report"
         report_response = requests.post(report_url, json=payload)
         report_response.raise_for_status()
         print("Report API Response:")
         print(report_response.json().get("report", ""))
 
     except requests.exceptions.ConnectionError:
-        print("Failed to connect to API. Make sure the server is running.")
+        print("Failed to connect to API. Make sure the server is running on 172.20.10.10:8001")
     except Exception as e:
         print(f"API request failed: {e}")
 

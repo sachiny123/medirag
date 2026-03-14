@@ -1,6 +1,6 @@
 Disease: Migraine
 
-Symptoms: irritability, acidity, headache, blurred and distorted vision, excessive hunger, visual disturbances, stiff neck, indigestion, depression.
+Symptoms: blurred and distorted vision, indigestion, headache, stiff neck, depression, acidity, irritability, visual disturbances, excessive hunger.
 
 Description: A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities.
 

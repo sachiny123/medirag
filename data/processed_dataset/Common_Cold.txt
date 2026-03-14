@@ -1,6 +1,6 @@
 Disease: Common Cold
 
-Symptoms: chest pain, swelled lymph nodes, runny nose, headache, sinus pressure, high fever, fatigue, continuous sneezing, chills, throat irritation, loss of smell, phlegm, cough, malaise, redness of eyes, muscle pain, congestion.
+Symptoms: phlegm, throat irritation, muscle pain, chills, sinus pressure, congestion, high fever, headache, swelled lymph nodes, runny nose, chest pain, continuous sneezing, fatigue, cough, loss of smell, malaise, redness of eyes.
 
 Description: The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold.
 

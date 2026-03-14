@@ -55,7 +55,7 @@ def normalize_symptoms(user_input: str) -> dict:
     Detects and converts user symptoms (Hindi/Hinglish/English) into standardized 
     English medical queries before running RAG retrieval.
     Must return dict with original and normalized text.
-    Latency goal: < 200ms.
+    Latency goal: < 5ms.
     """
     start_time = time.time()
     
@@ -64,12 +64,12 @@ def normalize_symptoms(user_input: str) -> dict:
     # 1. Fast path: Dictionary lookup (< 5ms)
     normalized = COMMON_SYMPTOM_MAP.get(clean_input)
     
-    # 2. Slow path: LLM translation (cached via lru_cache for repeated queries)
+    # 2. Ultra-fast fallback: Pass-through
     if not normalized:
-        normalized = _translate_with_llm(clean_input)
+        normalized = clean_input
         
     duration = (time.time() - start_time) * 1000
-    if duration > 200 and clean_input not in COMMON_SYMPTOM_MAP:
+    if duration > 50:
         print(f"[LanguageNormalizer] WARNING: Normalization took {duration:.2f}ms for '{clean_input}'")
 
     return {

@@ -1,6 +1,6 @@
 Disease: Psoriasis
 
-Symptoms: inflammatory nails, skin peeling, skin rash, small dents in nails, silver like dusting, joint pain.
+Symptoms: joint pain, skin rash, inflammatory nails, skin peeling, silver like dusting, small dents in nails.
 
 Description: Psoriasis is a common skin disorder that forms thick, red, bumpy patches covered with silvery scales. They can pop up anywhere, but most appear on the scalp, elbows, knees, and lower back. Psoriasis can't be passed from person to person. It does sometimes happen in members of the same family.
 

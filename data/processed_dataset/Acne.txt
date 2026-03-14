@@ -1,6 +1,6 @@
 Disease: Acne
 
-Symptoms: pus filled pimples, scurring, blackheads, skin rash.
+Symptoms: scurring, pus filled pimples, skin rash, blackheads.
 
 Description: Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents.
 

@@ -1,6 +1,6 @@
 Disease: Chronic cholestasis
 
-Symptoms: yellowish skin, abdominal pain, yellowing of eyes, loss of appetite, vomiting, itching, nausea.
+Symptoms: yellowish skin, itching, nausea, yellowing of eyes, loss of appetite, vomiting, abdominal pain.
 
 Description: Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases
 

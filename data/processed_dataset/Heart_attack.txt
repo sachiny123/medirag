@@ -1,6 +1,6 @@
 Disease: Heart attack
 
-Symptoms: chest pain, breathlessness, sweating, vomiting.
+Symptoms: sweating, chest pain, breathlessness, vomiting.
 
 Description: The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle.
 

@@ -1,6 +1,6 @@
 Disease: Alcoholic hepatitis
 
-Symptoms: yellowish skin, swelling of stomach, fluid overload, distention of abdomen, history of alcohol consumption, vomiting, abdominal pain.
+Symptoms: history of alcohol consumption, yellowish skin, distention of abdomen, fluid overload, swelling of stomach, vomiting, abdominal pain.
 
 Description: Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol
 

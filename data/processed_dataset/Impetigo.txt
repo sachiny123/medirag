@@ -1,6 +1,6 @@
 Disease: Impetigo
 
-Symptoms: high fever, red sore around nose, blister, yellow crust ooze, skin rash.
+Symptoms: yellow crust ooze, blister, red sore around nose, high fever, skin rash.
 
 Description: Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts.
 

@@ -1,6 +1,6 @@
 Disease: Gastroenteritis
 
-Symptoms: sunken eyes, dehydration, vomiting, diarrhoea.
+Symptoms: sunken eyes, vomiting, dehydration, diarrhoea.
 
 Description: Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea , abdominal cramps, nausea , and vomiting .
 

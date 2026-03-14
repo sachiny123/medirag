@@ -1,6 +1,6 @@
 Disease: Hyperthyroidism
 
-Symptoms: irritability, fast heart rate, weight loss, excessive hunger, sweating, fatigue, diarrhoea, restlessness, abnormal menstruation, muscle weakness, mood swings.
+Symptoms: muscle weakness, diarrhoea, weight loss, abnormal menstruation, sweating, fast heart rate, irritability, restlessness, excessive hunger, fatigue, mood swings.
 
 Description: Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat.
 

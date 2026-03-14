@@ -1,6 +1,6 @@
 Disease: Varicose veins
 
-Symptoms: obesity, cramps, fatigue, swollen blood vessels, swollen legs, bruising, prominent veins on calf.
+Symptoms: cramps, prominent veins on calf, bruising, swollen blood vessels, obesity, fatigue, swollen legs.
 
 Description: A vein that has enlarged and twisted, often appearing as a bulging, blue blood vessel that is clearly visible through the skin. Varicose veins are most common in older adults, particularly women, and occur especially on the legs.
 

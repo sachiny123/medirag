@@ -1,6 +1,6 @@
 Disease: Peptic ulcer diseae
 
-Symptoms: loss of appetite, indigestion, vomiting, abdominal pain, passage of gases, internal itching.
+Symptoms: internal itching, indigestion, passage of gases, loss of appetite, vomiting, abdominal pain.
 
 Description: Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer.
 

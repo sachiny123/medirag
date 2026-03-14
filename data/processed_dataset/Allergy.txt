@@ -1,6 +1,6 @@
 Disease: Allergy
 
-Symptoms: watering from eyes, chills, shivering, continuous sneezing.
+Symptoms: chills, shivering, continuous sneezing, watering from eyes.
 
 Description: An allergy is an immune system response to a foreign substance that's not typically harmful to your body.They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens.
 

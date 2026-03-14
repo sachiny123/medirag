@@ -1,6 +1,6 @@
 Disease: Chicken pox
 
-Symptoms: swelled lymph nodes, headache, high fever, lethargy, fatigue, loss of appetite, itching, red spots over body, mild fever, malaise, skin rash.
+Symptoms: red spots over body, itching, lethargy, skin rash, high fever, headache, mild fever, swelled lymph nodes, malaise, fatigue, loss of appetite.
 
 Description: Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It can cause an itchy, blister-like rash. The rash first appears on the chest, back, and face, and then spreads over the entire body, causing between 250 and 500 itchy blisters.
 

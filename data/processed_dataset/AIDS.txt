@@ -1,6 +1,6 @@
 Disease: AIDS
 
-Symptoms: high fever, extra marital contacts, patches in throat, muscle wasting.
+Symptoms: patches in throat, extra marital contacts, muscle wasting, high fever.
 
 Description: Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease.
 
