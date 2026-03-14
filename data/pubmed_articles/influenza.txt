@@ -1,0 +1,132 @@
+Topic: influenza
+
+PUBMED ABSTRACTS:
+
+1. Euro Surveill. 2026 Mar;31(10). doi: 10.2807/1560-7917.ES.2026.31.10.2600185.
+
+Population immunity, post-vaccine and post-infection antibody responses to 
+influenza A (H3N2) subclade J.2 and K (J.2.4.1) viruses, Hong Kong, 2025.
+
+Cheng SM(1)(2), Leung NH(1)(2), Shiu EY(2), Wong RW(2), Au NY(2), Huang X(2), 
+Kwok NK(2), Chan CH(2), Li JK(2), Tsang LC(2), Kwan TC(2), Tsang TK(2), Poon 
+LL(3)(2), Cowling BJ(4)(2), Peiris M(4)(3)(2).
+
+Author information:
+(1)These authors contributed equally to this work and share first authorship.
+(2)School of Public Health, The University of Hong Kong, Hong Kong Special 
+Administrative Region, China.
+(3)Centre of Immunology and Infection, Hong Kong Science and Technology Park, 
+Hong Kong Special Administrative Region, China.
+(4)These authors contributed equally to this work and share last authorship.
+
+We assessed haemagglutination inhibition (HAI) antibody titres against 2025 
+influenza A(H3N2) J.2 vaccine reference viruses and the novel subclade K 
+(J.2.4.1) in age-stratified Hong Kong sera (collected May-July 2025), vaccine 
+recipients and sera from virologically confirmed subclade J.2.2 or K infections. 
+In contrast to mono-specific ferret sera, human sera with high J.2 HAI titres 
+cross-reacted strongly with subclade K. Recombinant haemagglutinin- or egg-based 
+standard dose J.2 A(H3N2) vaccines boosted geometric mean titres to K virus 
+5.6-fold and 2.6-fold, respectively.
+
+DOI: 10.2807/1560-7917.ES.2026.31.10.2600185
+PMID: 41822984 [Indexed for MEDLINE]
+
+
+2. Front Med (Lausanne). 2026 Feb 25;13:1766424. doi: 10.3389/fmed.2026.1766424. 
+eCollection 2026.
+
+Advances in Traditional Chinese Medicine interventions for influenza A based on 
+the gut-lung axis: modern evidence for the exterior-interior relationship 
+between the lung and large intestine.
+
+Chen Q(1), Gong J(1), Fan H(1), Tao G(1), Lin C(1), Cheng X(1), Zhu H(1).
+
+Author information:
+(1)Department of Emergency, Yancheng TCM Hospital Affiliated to Nanjing 
+University of Chinese Medicine, Yancheng, Jiangsu, China.
+
+Influenza A virus (IAV) is a common respiratory pathogen that causes seasonal 
+epidemics and severe infections, imposing substantial healthcare and economic 
+burdens. IAV infection can disrupt the gut microbiota, and the resulting 
+dysbiosis influences host status during both the early and later stages of 
+infection. In recent years, Traditional Chinese Medicine (TCM) has shown 
+considerable potential in the treatment of IAV. Guided by the TCM concept of the 
+exterior-interior relationship between the lung and large intestine and 
+integrated with contemporary research on the gut-lung axis, this review 
+summarizes advances in the mechanistic and preclinical evidence of Chinese 
+herbal formulas, individual compounds, and polysaccharides in influenza A and 
+outlines mechanism-based research directions and translational insights to 
+inform future exploration.
+
+Copyright © 2026 Chen, Gong, Fan, Tao, Lin, Cheng and Zhu.
+
+DOI: 10.3389/fmed.2026.1766424
+PMCID: PMC12975882
+PMID: 41822875
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+3. Vet World. 2026 Jan;19(1):97-110. doi: 10.14202/vetworld.2026.97-110. Epub
+2026  Jan 8.
+
+Knowledge, attitudes, and practices toward avian influenza among free-grazing 
+duck farmers in Central Thailand: An analytical cross-sectional study.
+
+Boonyapisitsopa S(1), Charoenkul K(1)(2), Bunpapong N(1)(2), Chaiyawong S(1)(2), 
+Nasamran C(1)(2), Thammasutti K(2)(3), Saengkul C(4), Pakpinyo S(2), Suwannarong 
+K(2)(3), Amonsin A(1)(2).
+
+Author information:
+(1)Department of Veterinary Public Health, Chulalongkorn University, Bangkok, 
+Thailand.
+(2)Center of Excellence for Emerging and Re-emerging Infectious Diseases in 
+Animals, Chulalongkorn University, Bangkok, Thailand.
+(3)SUPA71 Co., Ltd., Bangkok, Thailand.
+(4)Nakhon Sawan Campus, Mahidol University, Nakhon Sawan, Thailand.
+
+BACKGROUND AND AIM: Free-grazing duck (FGD) production systems play a vital 
+economic role in Thailand but are also recognized as potential sources and 
+amplifiers of avian influenza (AI) viruses at the human-animal-environment 
+interface. Understanding the knowledge, attitudes, and practices (KAP) of 
+individuals involved in FGD production is crucial for effective prevention and 
+control of AI. This study aimed to assess AI-related KAP levels among FGD 
+farmers and related workers in central Thailand and to identify demographic, 
+occupational, and behavioral factors linked to these KAP outcomes.
+MATERIALS AND METHODS: An analytical cross-sectional survey was conducted from 
+January to May 2023, involving 101 participants working in FGD production 
+systems across Ayutthaya, Suphan Buri, and Nakhon Sawan provinces. Data were 
+obtained through face-to-face interviews using a structured, expert-validated 
+questionnaire that covered socio-demographic details, animal exposure, 
+vaccination history, and AI-related knowledge, attitudes, and practices. KAP 
+scores were determined using standardized scoring criteria. The relationships 
+between KAP scores and explanatory variables were analyzed using simple and 
+multiple linear regression.
+RESULTS: The average knowledge score was 8.65 ± 2.39 (out of 12), the average 
+attitude score was 3.63 ± 0.36 (out of 5), and the average practice score was 
+3.17 ± 0.38 (out of 5). Overall, 58.4% of participants demonstrated good 
+knowledge, 66.3% exhibited positive attitudes, and 38.6% reported good 
+preventive practices against AI. Knowledge scores were significantly linked to 
+daily working hours with FGDs, contact with other animals, and influenza 
+vaccination history. Positive attitudes were significantly influenced by 
+educational level and occupation, while good practices were associated with 
+higher education, type of FGD production system, animal contact, and vaccination 
+during poultry work. Moderate positive correlations were observed between 
+knowledge and attitude scores and between attitude and practice scores.
+CONCLUSION: This study offers the first comprehensive assessment of KAP 
+regarding AI among FGD farmers in Thailand. Although knowledge and attitudes 
+about AI were generally adequate, preventive measures were relatively 
+inadequate. Improving targeted public health education, increasing vaccination 
+awareness, and implementing One Health-based biosecurity measures are 
+recommended to boost AI prevention and readiness in FGD production systems.
+
+Copyright: © Boonyapisitsopa, et al.
+
+DOI: 10.14202/vetworld.2026.97-110
+PMCID: PMC12975714
+PMID: 41822582
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

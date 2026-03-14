@@ -1,0 +1,190 @@
+Topic: measles rash
+
+PUBMED ABSTRACTS:
+
+1. JCO Glob Oncol. 2024 Feb;10:e2300399. doi: 10.1200/GO.23.00399.
+
+Epilepsia Partialis Continua as a Sequelae of Measles Infection in Children With 
+Hematolymphoid Malignancies.
+
+Sharma S(1), Dhamne C(2), Bhosale S(1), Parambil B(2), Divatia J(1), Chinnaswamy 
+G(2), Patil V(3), Joshi R(4), Epari S(5), Mahadevan A(6), Vaidya S(7), Kulkarni 
+S(8), Kulkarni A(1), Patil V(1), Srinivasan S(2), Gollamudi VRM(2), Roy Moulik 
+N(2), Prasad M(2), Narula G(2), Banavali S(2).
+
+Author information:
+(1)Division of Critical Care Medicine, Tata Memorial Centre, Homi Bhabha 
+National Institute, Mumbai, India.
+(2)Department of Pediatric Oncology, Tata Memorial Centre, Homi Bhabha National 
+Institute, Mumbai, India.
+(3)Department of Radiology, Tata Memorial Centre, Homi Bhabha National 
+Institute, Mumbai, India.
+(4)Department of Neurology, KEM Hospital, Mumbai, India.
+(5)Department of Pathology, Tata Memorial Centre, Homi Bhabha National 
+Institute, Mumbai, India.
+(6)Department of Neuropathology, National Institute of Mental Health and 
+Neurosciences, Bangalore, India.
+(7)Virus Registry and Virus Repository, National Institute of Virology, Pune, 
+India.
+(8)Department of Neurology, Wadia Children's Hospital, Mumbai, India.
+
+PURPOSE: To share our clinical experience with the diagnosis and management of 
+children with hematolymphoid malignancies presenting with epilepsia partialis 
+continua (EPC) as a sequelae of measles infection.
+MATERIALS AND METHODS: In December 2022, a series of children in our 
+hemato-oncology unit presented with focal status epilepticus with no conclusive 
+evidence pointing toward any underlying etiology. One such child had a typical 
+measles rash a few weeks before the onset of this focal status epilepticus. 
+After a series of cases with a similar presentation, a clinical pattern 
+suspicious for measles became evident. cerebrospinal fluid polymerase chain 
+reaction was positive for measles virus with measles immunoglobin M detected in 
+the serum. This led to the diagnosis of measles inclusion-body encephalitis in a 
+series of children who presented with EPC over a period of 3 months. EPC is a 
+rare manifestation of measles that is seen only in immunocompromised patients.
+RESULTS: Among the 18 children reported in this series, only 10 had a history of 
+rashes. The rash was mostly transient and elicited only on retrospective history 
+taking. Five of the 18 children who did not lose consciousness during the 
+prolonged seizure episode survived the disease but had residual neurologic 
+sequelae. Among the 18 children, two were unimmunized and immunization status 
+could not be confirmed in three other children.
+CONCLUSION: This case series highlights the threats posed by measles infection 
+in children with cancer who are immunosuppressed because of the underlying 
+disease and ongoing chemotherapy. Loss of herd immunity because of declining 
+measles immunization rates secondary to vaccine hesitancy and COVID-19 lockdown 
+pose a greater risk of measles infection and its complications for patients with 
+deficient immune systems.
+
+DOI: 10.1200/GO.23.00399
+PMCID: PMC10914244
+PMID: 38422460 [Indexed for MEDLINE]
+
+Conflict of interest statement: The following represents disclosure information 
+provided by authors of this manuscript. All relationships are considered 
+compensated unless otherwise noted. Relationships are self-held unless noted. I 
+= Immediate Family Member, Inst = My Institution. Relationships may not relate 
+to the subject matter of this manuscript. For more information about ASCO's 
+conflict of interest policy, please refer to www.asco.org/rwc or 
+ascopubs.org/go/authors/author-center. Open Payments is a public database 
+containing information reported by companies about payments made to US-licensed 
+physicians (Open Payments). Jigeeshu Divatia Honoraria: Edwards India (Inst) 
+Travel, Accommodations, Expenses: Edwards India Gaurav Narula Uncompensated 
+Relationships: ImmunoACT No other potential conflicts of interest were reported.
+
+
+2. IJID Reg. 2023 May 23;8:31-35. doi: 10.1016/j.ijregi.2023.05.003. eCollection 
+2023 Sep.
+
+Clinical characteristics and outcomes of patients hospitalized with measles 
+during an outbreak in Somalia.
+
+Hassan MY(1), Mohamud RYH(2), Kassim MM(1), Hussein AI(3), Adam MK(4), Akbulut 
+UE(5), Olum R(6), Okot J(7), Bongomin F(7), Ahmed MAM(8)(9).
+
+Author information:
+(1)Department of Paediatrics, Mogadishu Somalia Turkey Recep Tayyip Erdogan 
+Training and Research Hospital, Mogadishu, Somalia.
+(2)Department of Education, Mogadishu Somalia Turkey Recep Tayyip Erdogan 
+Training and Research Hospital, Mogadishu, Somalia.
+(3)Department of Obstetrics and Gynaecology, Mogadishu Somalia Turkey Recep 
+Tayyip Erdogan Training and Research Hospital, Mogadishu, Somalia.
+(4)Department of Surgery, Mogadishu Somalia Turkey Recep Tayyip Erdogan Training 
+and Research Hospital, Mogadishu, Somalia.
+(5)University of Health Sciences, Antalya Training and Research Hospital, 
+Antalya, Turkey.
+(6)School of Medicine, College of Health Sciences, Makerere University, Kampala, 
+Uganda.
+(7)Department of Medical Microbiology and Immunology, Faculty of Medicine, Gul 
+University, Gulu, Uganda.
+(8)Department of Paediatrics, Faculty of Medicine and Surgery, Mogadishu 
+University, Mogadishu, Somalia.
+(9)Department of Paediatric Cardiology, Uganda Heart Institute, Kampala, Uganda.
+
+OBJECTIVES: Measles is a contagious disease associated with significant 
+morbidity and mortality. This paper describes the clinical characteristics and 
+outcomes of patients hospitalized with measles during an outbreak in Somalia 
+from January 2018 to December 2021.
+METHODS: This retrospective study was conducted at Mogadishu Somalia Turkey 
+Recep Tayyip Erdogan Training and Research Hospital. Children aged 6 months to 
+17 years who were hospitalized with clinical signs and symptoms of measles and 
+its complications were recruited.
+RESULTS: In total, 110 participants were enrolled. The median age was 16 
+[interquartile range (IQR) 12-36] years, and 87 (79.1%) were male. All 
+participants presented with fever, typical measles rash, cough and 
+conjunctivitis, and 43 (39.1%) had received the measles vaccine. Overall, 104 
+(94.6%) participants were admitted with severe respiratory symptoms, and six 
+(5.4%) were admitted due to poor feeding and/or significant dehydration. 
+Overall, all-cause mortality was 1.8% (n=2). The median duration of 
+hospitalization was longer among participants who died compared with those who 
+survived [11 (IQR 8-14) vs 4 (IQR 2-6) days; P=0.046]. Unvaccinated participants 
+were significantly younger than vaccinated participants [36 (IQR 24-72) vs 12 
+(IQR 9-16) months; P<0.001]. There was a trend towards higher mortality [0/43 
+(0%) vs 2/67 (3%); P=0.519] and longer length of hospitalization [3 (IQR 2-6) vs 
+4 (IQR 3-7) days; P=0.056] among unvaccinated participants compared with 
+vaccinated participants. Both the median total leukocyte count [5.7 (IQR 
+3.9-8.5) vs 11.6 (IQR 5.9-46.3) x 109/L; P<0.001] and platelet count [239 (IQR 
+202-358) vs 308 (IQR 239-404) x 109/L; P=0.032] were significantly higher among 
+unvaccinated participants compared with vaccinated participants. However, the 
+median haemoglobin concentration was significantly higher among vaccinated 
+participants compared with unvaccinated participants [11.1 (IQR 9.9-12.3) vs 
+10.1 (IQR 9.1-11.2) g/dL; P=0.006].
+CONCLUSIONS: Patients with measles in Somalia have a short hospital stay, low 
+mortality rate and low vaccination rate. Timely vaccination and the need for 
+improved care of patients with measles, particularly vulnerable groups including 
+children and those with undernutrition, are encouraged.
+
+© 2023 The Author(s).
+
+DOI: 10.1016/j.ijregi.2023.05.003
+PMCID: PMC10320069
+PMID: 37415953
+
+
+3. Nat Commun. 2021 Sep 2;12(1):5233. doi: 10.1038/s41467-021-25497-4.
+
+Small-molecule polymerase inhibitor protects non-human primates from measles and 
+reduces shedding.
+
+Wittwer K(1), Anderson DE(2), Pfeffermann K(1), Cox RM(3), Wolf JD(3), 
+Santibanez S(4), Mankertz A(4), Plesker R(1), Sticher ZM(5), Kolkykhalov AA(5), 
+Natchus MG(5), Pfaller CK(6), Plemper RK(7), von Messling V(1)(8).
+
+Author information:
+(1)Veterinary Medicine Division, Paul-Ehrlich-Institute, Langen, Germany.
+(2)Programme in Emerging Infectious Diseases, Duke-NUS Medical School, 
+Singapore, Singapore.
+(3)Institute for Biomedical Sciences, Georgia State University, Atlanta, GA, 
+USA.
+(4)WHO European Regional Reference Laboratory for Measles and Rubella, Robert 
+Koch-Institute, Berlin, Germany.
+(5)Emory Institute for Drug Development, Emory University, Atlanta, GA, USA.
+(6)Veterinary Medicine Division, Paul-Ehrlich-Institute, Langen, Germany. 
+Christian.Pfaller@pei.de.
+(7)Institute for Biomedical Sciences, Georgia State University, Atlanta, GA, 
+USA. rplemper@gsu.edu.
+(8)Life Sciences Unit, Federal Ministry of Education and Research, Berlin, 
+Germany.
+
+Measles virus (MeV) is a highly contagious pathogen that enters the human host 
+via the respiratory route. Besides acute pathologies including fever, cough and 
+the characteristic measles rash, the infection of lymphocytes leads to 
+substantial immunosuppression that can exacerbate the outcome of infections with 
+additional pathogens. Despite the availability of effective vaccine prophylaxis, 
+measles outbreaks continue to occur worldwide. We demonstrate that prophylactic 
+and post-exposure therapeutic treatment with an orally bioavailable 
+small-molecule polymerase inhibitor, ERDRP-0519, prevents measles disease in 
+squirrel monkeys (Saimiri sciureus). Treatment initiation at the onset of 
+clinical signs reduced virus shedding, which may support outbreak control. 
+Results show that this clinical candidate has the potential to alleviate 
+clinical measles and augment measles virus eradication.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-25497-4
+PMCID: PMC8413292
+PMID: 34475387 [Indexed for MEDLINE]
+
+Conflict of interest statement: R.K.P. is a co-inventor on US patent 
+US9499489B2, “Myxovirus therapeutics, compounds, and uses related thereto”, 
+which covers composition of matter and the method of use of ERDRP-0519 for 
+measles therapy. This study could affect his personal financial status. All 
+other authors declare no competing interests.

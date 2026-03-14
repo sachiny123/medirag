@@ -1,0 +1,33 @@
+Title: Drug allergy
+
+Summary:
+A drug allergy is an allergy to a drug, most commonly a medication, and is a form of adverse drug reaction. A suspected allergic reaction requires immediate medical attention.
+An allergic reaction does not occur on the first exposure to a substance; during the first exposure the body creates antibodies and memory lymphocyte cells for the antigen, which can lead to sensitisation and cause a later allergic reaction. However, drugs may contain substances, including dyes, to which a patient is already sensitised, leading to an allergic reactions on the first administration of a drug.
+A drug allergy is different from an intolerance. A drug intolerance, which is often a milder, non-immune-mediated reaction, does not depend on prior exposure.
+
+Main Section Extract:
+A drug allergy is an allergy to a drug, most commonly a medication, and is a form of adverse drug reaction. A suspected allergic reaction requires immediate medical attention.
+An allergic reaction does not occur on the first exposure to a substance; during the first exposure the body creates antibodies and memory lymphocyte cells for the antigen, which can lead to sensitisation and cause a later allergic reaction. However, drugs may contain substances, including dyes, to which a patient is already sensitised, leading to an allergic reactions on the first administration of a drug.
+A drug allergy is different from an intolerance. A drug intolerance, which is often a milder, non-immune-mediated reaction, does not depend on prior exposure.
+
+
+== Signs and symptoms ==
+Symptoms of drug hypersensitivity reactions can be similar to non-allergic adverse effects. Common symptoms include:
+
+Hives
+Itching
+Rash
+Fever
+Facial swelling
+Shortness of breath due to the short-term constriction of lung airways or longer-term damage to lung tissue
+Anaphylaxis, a life-threatening drug reaction (produces most of these symptoms as well as low blood pressure)
+Cardiac symptoms such as chest pain, shortness of breath, fatigue, chest palpitations, light headedness, and syncope due to a rare drug-induced reaction, eosinophilic myocarditis
+
+
+== Causes ==
+Some classes of medications have a higher rate of drug reactions than others. These include antiepileptics, antibiotics, antiretrovirals, NSAIDs, and general and local anesthetics.
+
+
+=== Risk factors ===
+Risk factors for drug allergies can be attributed to the drug itself or the characteristics of the patient. Drug-specific risk factors include the dose, route of administration, duration of treatment, repetitive exposure to the drug, and concurrent illnesses.  Host risk factors include age, sex, atopy, specific genetic polymorphisms, and inherent predisposition to react to multiple unrelated drugs (multiple drug allergy syndrome).
+A drug allergy is

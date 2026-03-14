@@ -1,0 +1,166 @@
+Topic: chickenpox
+
+PUBMED ABSTRACTS:
+
+1. J Family Med Prim Care. 2026 Jan;15(1):239-251. doi: 
+10.4103/jfmpc.jfmpc_1978_24. Epub 2026 Feb 7.
+
+Knowledge, attitude, and practice toward herpes zoster vaccination among the 
+general population aged 50 years or above in Riyadh, Saudi Arabia: A 
+cross-sectional study.
+
+Alrufayyiq NI(1), Alyahya SA(2), Almutairi NA(3), Alkhorayef GA(4), Almalki 
+AG(5), Altulaihi BA(6).
+
+Author information:
+(1)Department of Internal Medicine, Ad Diriyah Hospital, Riyadh Third Health 
+Cluster, Saudi Arabia.
+(2)Department of Pediatrics, Dr. Sulaiman Alhabib Medical Group, Riyadh, Saudi 
+Arabia.
+(3)Department of Family Medicine,Ministry of National Guard Health Affairs, 
+Riyadh, Saudi Arabia.
+(4)College of Medicine, King Saud bin Abdulaziz University for Health Sciences, 
+Riyadh, Saudi Arabia.
+(5)Department of Biostatistics, King Abdullah International Medical Research 
+Center, Riyadh, Saudi Arabia.
+(6)Department of Family Medicine and Primary Healthcare, King Abdulaziz Medical 
+City, Ministry of National Guard Health Affairs, Riyadh, Saudi Arabia.
+
+OBJECTIVE: This study aimed to assess the knowledge, attitudes, and demographic 
+factors related to herpes zoster (HZ) and the HZ vaccine among Riyadh, Saudi 
+Arabia, population aged 50 or above.
+MATERIALS AND METHODS: A quantitative, observational, cross-sectional study 
+conducted on 386 volunteers over the age 50 using the nonprobability convenience 
+sampling technique. After being collected by distributing the questionnaire 
+online and in public places from July 2023 to February 2024, the data were 
+analyzed using the Statistical Analysis System (SAS) (Software Version 9.4).
+RESULTS: Out of 386 participants, the majority were Saudis (95.34%) and had a 
+university degree or higher (67.1%). The prevalence of chronic diseases was 
+notable, with diabetes, hypertension, and hypercholesterolemia affecting 22.54%, 
+22.28%, and 19.17% of participants, respectively. Knowledge gaps were identified 
+as many participants did not know about the relationship between chickenpox and 
+HZ (69.43%), the infectiousness of HZ (50%), and the lifetime risk of developing 
+HZ (79.27%). Misconceptions regarding young people's possibility of developing 
+HZ, the disease fatality, HZ symptoms, and outcomes were also prevalent. 
+Attitudes toward HZ demonstrated an interest in learning more about the disease 
+(68.14%) and a willingness to take the HZ vaccine if recommended by a doctor 
+(60.06%). However, vaccine uptake was significantly low (8.55%).
+CONCLUSION: This study highlighted the need for targeted educational campaigns 
+to address knowledge gaps and misconceptions about HZ among the population. 
+Healthcare providers should play a vital role in promoting awareness and 
+recommending the HZ vaccine especially for high-risk groups. These efforts can 
+contribute to reducing the burden of HZ and its complications in the community.
+
+Copyright: © 2026 Journal of Family Medicine and Primary Care.
+
+DOI: 10.4103/jfmpc.jfmpc_1978_24
+PMCID: PMC12975047
+PMID: 41816170
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Sci Rep. 2026 Mar 11. doi: 10.1038/s41598-026-44066-7. Online ahead of print.
+
+The 2024 Mpox surveillance in Senegal uncovers a large circulation of 
+Chickenpox.
+
+Top FK(#)(1), Gaye A(#)(2), Boussiengui GL(#)(1), Sall Y(3), Sall NC(1), Camara 
+D(1), Ba M(1), Ndiaye NKD(4), Seye AO(1), Ndiaye NK(1), Diallo B(4), Sagne 
+SN(2), Mbanne M(1), Diagne MM(1), Faye O(1), Fall G(1), Sow B(4), Loucoubar 
+C(2), Ndiaye EHM(3), Diop B(3), Sall AA(1), Dia N(1), Faye O(4), Sow A(4), Faye 
+M(#)(5).
+
+Author information:
+(1)Virology department, Institut Pasteur de Dakar, 36, Avenue Pasteur, 220, 
+Dakar, Senegal.
+(2)Department of Epidemiology, Clinical Research of and Data Sciences, Institut 
+Pasteur de Dakar, 36, Avenue Pasteur, 220, Dakar, Senegal.
+(3)Ministry of Health and Social Actions in Senegal, Dakar, Senegal.
+(4)Public Health Department, Institut Pasteur de Dakar, 36, Avenue Pasteur, 220, 
+Dakar, Senegal.
+(5)Virology department, Institut Pasteur de Dakar, 36, Avenue Pasteur, 220, 
+Dakar, Senegal. martin.faye@pasteur.sn.
+(#)Contributed equally
+
+During preparedness activities in Senegal to the 2024 Mpox Public Health 
+Emergency of International Concern, a study was conducted to assess the 
+prevalence of Varicella-Zoster virus among patients suspected of having Mpox. 
+Samples, including skin swabs, serum, and nasopharyngeal swabs, were collected 
+from 103 patients who presented with Mpox-like symptoms. Molecular testing via 
+qPCR revealed that 30.1% of patients tested positive for herpesviruses, whereas 
+no Mpox cases were detected. Common symptoms include fever, skin rash, headache, 
+and myalgia, which closely resemble Mpox symptoms, increasing the risk of 
+misdiagnosis. The most affected group was children under 15 years of age (50% of 
+herpesvirus cases), followed by adults over 30 years of age (30.8%). The 
+male/female sex ratio among herpesvirus-positive patients was 2.1, indicating a 
+higher prevalence in males. Phylogenetic analysis of 14 newly characterized 
+Varicella-Zoster virus genomes from metagenomic sequencing revealed that the 
+strains circulating in Senegal were closely related to those from Guinea-Bissau, 
+suggesting possible regional transmission. In addition, viral and bacterial 
+coinfections were identified in Mpox-negative patients, which may have 
+contributed to some skin lesions initially suspected to be Mpox. Our data 
+highlight the importance of differential diagnostic testing to distinguish 
+between Mpox and other infections, such as Chickenpox. The unexpectedly high 
+prevalence of herpesviruses among suspected Mpox cases underscores the need for 
+improved laboratory diagnostics, enhanced epidemiological surveillance, and 
+targeted public health interventions to prevent misdiagnosis and improve patient 
+management.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41598-026-44066-7
+PMID: 41813810
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.
+
+
+3. Hum Vaccin Immunother. 2026 Dec 31;22(1):2611644. doi: 
+10.1080/21645515.2025.2611644. Epub 2026 Mar 9.
+
+Genomic comparison reveals single-nucleotide polymorphic sites and 
+attenuation-associated site combinations specific to Chinese live attenuated 
+varicella-zoster virus vaccines.
+
+Zhang Y(1), Duan X(1), Cai Y(1), Wang M(1), Wang Z(1), Song M(1), Qiu T(2)(3), 
+Wang X(3)(4)(5), Shao H(1).
+
+Author information:
+(1)NMPA Center for Innovation and Research in Regulatory Science, Shanghai 
+Quality Inspection and Testing Center of Innovative Biological Products, 
+Shanghai Institute for Drug Control, Shanghai, China.
+(2)Institute of Clinical Science, Clinical Center of Biotherapy, Zhongshan 
+Hospital, Fudan University, Shanghai, China.
+(3)Shanghai Institute of Infectious Disease and Biosecurity, Fudan University, 
+Shanghai, China.
+(4)Key Laboratory of Medical Molecular Virology of MoE & MoH, and Institutes of 
+Biomedical Sciences, Shanghai Medical College, Fudan University, Shanghai, 
+China.
+(5)Children's Hospital, Fudan University, Shanghai, China.
+
+The live-attenuated varicella-zoster virus (VZV) vaccine, mainly based on the 
+Oka strain, is essential for the prevention and control of chickenpox 
+(varicella). Although genomic profiles of internationally prevalent Oka vaccine 
+strain (vOka)-derived preparations have been reported, the comprehensive 
+single-nucleotide polymorphism (SNP) profiles of multiple commercially available 
+Chinese vOka-derived vaccines are still lacking. We performed next-generation 
+sequencing (NGS) on five Chinese-manufactured VZV vaccines, comparing genomic 
+variations against the wild-type parental Oka (pOka) strain and internationally 
+prevalent vaccine products. Notably, among 54 key SNPs distinguishing Chinese 
+vaccines from the wild-type pOka strain, 4 novel China-specific SNPs were 
+identified. What's more, we identified 6 near-fixed (the vaccine allele 
+frequency >90%) non-synonymous SNPs that consistently co-occurred across all 
+production batches, potentially impacting protein function through amino acid 
+substitutions. Genetic heterogeneity across manufacturers revealed 
+manufacturer-specific signatures, whereas consistent batch production 
+underscored manufacturing stability. By systematically mapping SNPs in Chinese 
+VZV vaccines, this study bridges a critical knowledge gap and provides essential 
+insights into manufacturer-specific genomic signatures.
+
+DOI: 10.1080/21645515.2025.2611644
+PMCID: PMC12973467
+PMID: 41797638 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).

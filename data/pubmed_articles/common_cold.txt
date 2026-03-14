@@ -1,0 +1,128 @@
+Topic: common cold
+
+PUBMED ABSTRACTS:
+
+1. RSC Chem Biol. 2026 Feb 26. doi: 10.1039/d5cb00242g. Online ahead of print.
+
+Chemical modulation of the unfolded protein response reveals an antiviral role 
+for the PERK pathway in human coronavirus 229E infection.
+
+Pellizzari-Delano IE(1), Tooley TH(1), Mondal D(1), Jani K(1), Gallardo-Flores 
+CE(1), Colpitts CC(1).
+
+Author information:
+(1)Department of Biomedical and Molecular Sciences, Queen's University Kingston 
+ON K7L 3N6 Canada che.colpitts@queensu.ca.
+
+Broad spectrum antivirals are critical to respond rapidly to the threat posed by 
+newly emerging RNA viruses. One potential candidate is the natural compound 
+thapsigargin (Tg). Tg potently induces endoplasmic reticulum (ER) stress and 
+activates the unfolded protein response (UPR). Recent studies have demonstrated 
+that Tg has robust antiviral activity against several human coronaviruses 
+(CoVs), including SARS-CoV-2, although the specific antiviral mechanism(s) have 
+remained unclear. Here, we aimed to characterize the role of the UPR in the 
+antiviral activity of Tg against HCoV-229E, a model common cold CoV. Consistent 
+with previous findings, we show that a short 30-minute priming of A549 cells 
+with Tg potently inhibits HCoV-229E infection. Time-of-addition assays showed 
+that Tg is most effective when added up to 8 hours post-infection. Furthermore, 
+Tg inhibits the accumulation of double-stranded RNA in infected cells, 
+suggesting that Tg inhibits early stages of viral RNA replication. Using 
+selective UPR pathway inhibitors to narrow down the role of these pathways in 
+mediating the antiviral effect of Tg, we show that the inhibition of IRE1 or 
+ATF6 does not impair the ability of Tg to inhibit HCoV-229E infection. The use 
+of stable knockdown A549 cells in which IRE1, PERK, or ATF6 expression was 
+silenced further revealed that the antiviral activity of Tg is not dependent on 
+the expression of any of the three UPR sensors individually. However, HCoV-229E 
+replication is inhibited in A549-shIRE1 cells, or in cells treated with the IRE1 
+inhibitor (KIRA6), suggesting that IRE1 activation may play a pro-viral role 
+during HCoV-229E infection. Selective UPR pathway activators were used to 
+further probe down the role of each pathway during HCoV-229E infection. 
+Activation of the PERK pathway, but not IRE1 or ATF6 pathways, inhibits 
+HCoV-229E infection. Lastly, to more broadly test the antiviral role of PERK 
+against CoV RNA replication, we used BHK-21 cells that stably express a 
+SARS-CoV-2 replicon. We show that PERK activation inhibits SARS-CoV-2 
+replication similarly to Tg. Overall, these findings provide insight into the 
+antiviral mechanism(s) of Tg against CoV infection and demonstrate that 
+modulation of the UPR may be exploited as an antiviral strategy.
+
+This journal is © The Royal Society of Chemistry.
+
+DOI: 10.1039/d5cb00242g
+PMCID: PMC12965278
+PMID: 41798766
+
+Conflict of interest statement: There are no conflicts to declare.
+
+
+2. Viruses. 2026 Jan 28;18(2):169. doi: 10.3390/v18020169.
+
+Optimized Propagation and Purification Protocols for Large-Scale Production of 
+Rhinovirus C.
+
+Kaiya J(1), Devries MK(1), Gern JE(1), Bochkov YA(1).
+
+Author information:
+(1)Department of Pediatrics, School of Medicine and Public Health, University of 
+Wisconsin, Madison, WI 53792, USA.
+
+BACKGROUND: Rhinovirus C (RV-C) is one of three species of rhinoviruses (RVs), 
+which cause the common cold, preschool wheezing illnesses and exacerbations of 
+asthma. RV-C types are more virulent, especially in children, but progress in 
+developing treatments is limited by difficulties in generating high-titer virus 
+preparations. The goals of this study were to optimize methods for large-scale 
+production and purification of RV-C to facilitate structure and immune response 
+studies.
+METHODS: We optimized protocols for the propagation and purification of RV-C15a, 
+a clinical isolate adapted to HeLa-E8 cells stably expressing virus receptor 
+CDHR3. We compared virus yields in adherent and suspension cultures, evaluated 
+the effects of calcium supplementation and infection timing, and tested multiple 
+purification strategies, including ultracentrifugation, dialysis, and lipase 
+treatment.
+RESULTS: RV-C15a yields were significantly lower in suspension vs. adherent 
+cultures despite comparable virus binding and entry, suggesting post-entry 
+replication limitations in suspended cells. In adherent cultures, infecting soon 
+after cell seeding and calcium supplementation reduced the time of virus 
+production and modestly improved virus progeny yields. Surface CDHR3 expression 
+declined over time, potentially restricting viral spread. Among purification 
+methods, lipase treatment of infected cell lysates followed by 
+ultracentrifugation produced highly pure and concentrated virus preparations 
+suitable for structural and immunological applications, with high yields.
+CONCLUSIONS: We present a robust system for large-scale RV-C15a production in 
+adherent HeLa-E8 cells and recommend a lipase-based purification method as a 
+rapid and effective approach for producing high-quality viral preparations. 
+These advances will support structural studies and accelerate the development of 
+RV-C-targeted therapeutics and vaccines.
+
+DOI: 10.3390/v18020169
+PMCID: PMC12945259
+PMID: 41754512 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.E.G. has served as a paid consultant for 
+Arrowhead Pharmaceuticals and Gilead Sciences, has stock options in Meissa 
+Vaccines Inc. and patents on rhinovirus production methods. Y.A.B. has patents 
+on rhinovirus production methods. The other authors declare no conflicts of 
+interest. The funders had no role in the design of the study; in the collection, 
+analyses, or interpretation of data; in the writing of the manuscript; or in the 
+decision to publish the results.
+
+
+3. Biomolecules. 2026 Feb 13;16(2):295. doi: 10.3390/biom16020295.
+
+Genetic and Structural Analyses of Coronaviruses: Insights into SARS-CoV-2 and 
+Beyond.
+
+Quaranta M(1), Pascarella S(1).
+
+Author information:
+(1)Dipartimento di Scienze Biochimiche "A Rossi Fanelli", Sapienza Università di 
+Roma, 00185 Rome, Italy.
+
+Coronaviruses are a family of positive-sense RNA viruses, many of which act as 
+etiological agents of human diseases ranging in severity from the common cold to 
+severe pneumonia [...].
+
+DOI: 10.3390/biom16020295
+PMCID: PMC12937593
+PMID: 41750363 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflicts of interest.

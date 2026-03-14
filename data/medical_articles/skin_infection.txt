@@ -1,0 +1,21 @@
+Title: Skin infection
+
+Summary:
+A skin infection is an infection of the skin in humans and other animals, that can also affect the associated soft tissues such as loose connective tissue and mucous membranes. They comprise a category of infections termed skin and skin structure infections (SSSIs), or skin and soft tissue infections (SSTIs), and acute bacterial SSSIs (ABSSSIs). They are distinguished from dermatitis (inflammation of the skin), although skin infections can result in skin inflammation.
+
+
+
+Main Section Extract:
+A skin infection is an infection of the skin in humans and other animals, that can also affect the associated soft tissues such as loose connective tissue and mucous membranes. They comprise a category of infections termed skin and skin structure infections (SSSIs), or skin and soft tissue infections (SSTIs), and acute bacterial SSSIs (ABSSSIs). They are distinguished from dermatitis (inflammation of the skin), although skin infections can result in skin inflammation.
+
+
+== Causes ==
+
+
+=== Bacterial ===
+
+Bacterial skin infections affected about 155 million people and cellulitis occurred in about 600 million people in 2013. Bacterial skin infections include:
+
+Cellulitis, a diffuse inflammation of connective tissue with severe inflammation of dermal and subcutaneous layers of the skin. Further, cellulitis can be classified based into purulent and non-purulent cellulitis, based on the most likely causative agent and the symptoms presentation. Purulent cellulitis is often caused by Staphylococcus aureus, including both methicillin-sensitive (MSSA) and methicillin-resistant S. aureus (MRSA). Non-purulent cellulitis is most often associated with group A beta-hemolytic streptococci, such as Streptococcus pyogenes. In rare cases, the infection can progress into necrotizing fasciitis, a serious and potentially fatal infection.
+Erysipelas, a bacterial infection which primarily affects superficial dermis, and often involves superficial lymphatics.  Unlike cellulitis, it does not affect deeper layers of the skin. It is primarily caused by the Group A beta-hemolytic streptococci, with Streptococcus pyogenes being the most common pathogen.
+Folliculitis, a skin condition in which hair follicle, located in the dermal layer of the skin, becomes infected and inflamed. It is predominantly caused by bacterial infections, especially Staphylococcus aureus, leading to superficial bacterial folliculitis. Other causative agents of folliculitis include fungi (most commonly Malassezia species)

@@ -1,0 +1,155 @@
+Topic: acne
+
+PUBMED ABSTRACTS:
+
+1. Cureus. 2026 Feb 9;18(2):e103274. doi: 10.7759/cureus.103274. eCollection 2026
+ Feb.
+
+At-Home Red Light Therapy Devices: Promotion and Recommendation Patterns on 
+Social Media in the Context of Limited Evidence.
+
+Merkle T(1), Tomczak L(1), Do K(2), Aji M(1), Ilyas E(1).
+
+Author information:
+(1)Dermatology, Drexel University College of Medicine, Philadelphia, USA.
+(2)Dermatology, Pennsylvania State University College of Medicine, Hershey, USA.
+
+The popularity of red light therapy (RLT) has grown substantially, with social 
+media playing a significant role. The objective of this study was to 
+characterize how RLT is promoted on social media and to assess whether these 
+claims align with current evidence-based dermatologic applications by examining 
+creator credentials, promoted device characteristics and costs, claimed 
+indications, and patterns of content reach that may contribute to acceptance of 
+unverified health-related claims. After exclusions, 132 posts were analyzed with 
+an overall potential reach of 47.5 million followers. While non-credentialed 
+authors created 64.4% of posts compared to 18.2% of physicians, the overall 
+reach of physician posts was 38.9% based on the total number of followers. Red 
+light (RL) + near-infrared (nIR) devices were most commonly recommended (63.7%), 
+followed by multiwavelength devices (MWD) (23.4%). RL-only devices were 
+recommended by 1.6% of posts. Median device price varied, with non-credentialed 
+posts recommending lower-priced devices ($347), followed by physicians ($469), 
+and then other advanced degree and licensed professionals ($629). A significant 
+association was found between platform and credential (χ² (2) = 25.85, p < 
+0.0001), with TikTok posts predominantly from non-credentialed accounts (87.7%) 
+and Instagram being more mixed. Credentialed accounts were more likely to 
+recommend RL + nIR over MWD (χ² = 6.80, p = 0.0091). "Skin" was the most 
+consistently referenced benefit category at 88.6%, with physicians focused on 
+anti-aging and acne benefits (66.7% and 20.8%) and non-physicians on a broader 
+range of skin targets. While vague references to "research" and "studies" were 
+made by most posts, only 8.3% of posts provided peer-reviewed journal articles 
+as support. There was a discrepancy in terms of energy output from promoted 
+at-home devices, which remain untested, compared with the specifications found 
+in these references. Overall, the claimed benefits of RLT and promotional 
+at-home devices on social media are often well beyond substantiated evidence, 
+which may leave patients with unrealistic expectations. Factors influencing 
+trust in promotional claims may vary due to the limited ability of platforms to 
+verify credential authenticity. Although physicians make up a smaller percentage 
+of content, their overall potential reach provides the opportunity to 
+enhance evidence-based guidance rather than reinforce commercially driven 
+messaging.
+
+Copyright © 2026, Merkle et al.
+
+DOI: 10.7759/cureus.103274
+PMCID: PMC12977816
+PMID: 41822644
+
+Conflict of interest statement: Human subjects: All authors have confirmed that 
+this study did not involve human participants or tissue. Animal subjects: All 
+authors have confirmed that this study did not involve animal subjects or 
+tissue. Conflicts of interest: In compliance with the ICMJE uniform disclosure 
+form, all authors declare the following: Payment/services info: All authors have 
+declared that no financial support was received from any organization for the 
+submitted work. Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+2. Cureus. 2026 Feb 9;18(2):e103289. doi: 10.7759/cureus.103289. eCollection 2026
+ Feb.
+
+Use of Castor Oil in Dermatology: A Narrative Review.
+
+Girdler K(1), Cabatu A(1), Olds H(2), Potts GA(2).
+
+Author information:
+(1)Dermatology, Wayne State University School of Medicine, Detroit, USA.
+(2)Dermatology, Wayne State University, Detroit, USA.
+
+Castor oil, derived from the seeds of Ricinus communis, has a long history of 
+use in traditional medicine and cosmetics. This review examines the current 
+dermatological applications of castor oil, highlighting both its therapeutic 
+potential and safety profile. A comprehensive literature search was conducted 
+using PubMed and Google Scholar to identify studies evaluating castor oil in the 
+treatment or enhancement of treatments for various dermatologic conditions. 
+Evidence supports its use in hair care for improving luster and possibly 
+combating androgenic alopecia via inhibition of prostaglandin D2 synthesis. This 
+review also highlights the efficacy of castor oil in reducing hyperpigmentation 
+and improving hydration, elasticity, and signs of aging through its antioxidant 
+properties. Additionally, castor oil has been added to various formulations to 
+increase drug penetration and cleansing efficacy with fewer irritant effects. 
+Though generally well tolerated, rare adverse effects such as contact dermatitis 
+and hair felting have been reported. Castor oil shows promise as a versatile and 
+accessible agent in dermatology, warranting further clinical investigation to 
+fully establish its efficacy and optimal use.
+
+Copyright © 2026, Girdler et al.
+
+DOI: 10.7759/cureus.103289
+PMCID: PMC12978418
+PMID: 41822610
+
+Conflict of interest statement: Conflicts of interest: In compliance with the 
+ICMJE uniform disclosure form, all authors declare the following: 
+Payment/services info: All authors have declared that no financial support was 
+received from any organization for the submitted work. Financial relationships: 
+All authors have declared that they have no financial relationships at present 
+or within the previous three years with any organizations that might have an 
+interest in the submitted work. Other relationships: All authors have declared 
+that there are no other relationships or activities that could appear to have 
+influenced the submitted work.
+
+
+3. J Cosmet Dermatol. 2026 Mar;25(3):e70765. doi: 10.1111/jocd.70765.
+
+Fractional CO2 Laser Versus Micro Needling Radiofrequency for Post Acne 
+Scarring: A Meta-Analysis of RCTs.
+
+Argobi Y(1), Tobeigei F(1), Alasiri FI(2).
+
+Author information:
+(1)Department of Dermatology, College of Medicine, King Khalid University, Abha, 
+Saudi Arabia.
+(2)Security Forces Hospitals Program, General Directorate of Medical Services, 
+Ministry of Interior, Riyadh, Saudi Arabia.
+
+BACKGROUND: Post-acne scarring is a prevalent dermatological concern with 
+significant impact on quality of life. Fractional CO2 laser (FCL) and 
+microneedling radiofrequency (MNRF) are widely used treatments, but their 
+comparative efficacy and safety require further synthesis.
+AIMS AND OBJECTIVES: This meta-analysis was conducted to compare the efficacy 
+and safety of FCL versus MNRF in the management of post-acne scarring.
+METHODS: The analysis included eight randomized controlled trials involving a 
+total of 249 patients. The primary outcomes evaluated encompassed improvement in 
+acne scars, patient satisfaction scores, pain levels, the risk of 
+post-inflammatory hyperpigmentation, and the duration of erythema.
+RESULTS: FCL demonstrated superior improvement in acne scars (MD: 0.31, 95% CI, 
+0.13-0.48, p = 0.0005) and higher patient satisfaction (MD: 0.32, 95% CI, 
+0.10-0.44, p = 0.005) compared to MNRF. However, FCL was associated with 
+significantly higher pain scores (MD: 2.14, 95% CI, 1.90-2.37, p < 0.00001), an 
+increased risk of PIH (RR: 4.44, 95% CI, 2.39-8.26, p < 0.00001), and a longer 
+duration of erythema (MD: 1.72 days, 95% CI, 1.43-2.02, p < 0.00001). MNRF 
+exhibited a more favorable safety profile.
+CONCLUSION: While FCL offers superior efficacy for post-acne scarring, MNRF 
+provides better tolerability. The choice of treatment should be individualized, 
+considering patient-specific factors such as skin type, pain tolerance, and 
+recovery expectations. Further research with longer follow-up and standardized 
+outcomes is needed.
+
+© 2026 The Author(s). Journal of Cosmetic Dermatology published by Wiley 
+Periodicals LLC.
+
+DOI: 10.1111/jocd.70765
+PMID: 41821146 [Indexed for MEDLINE]

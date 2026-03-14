@@ -1,0 +1,7 @@
+Disease: Typhoid
+
+Symptoms: headache, high fever, abdominal pain, belly pain, fatigue, diarrhoea, toxic look (typhos), chills, vomiting, nausea, constipation.
+
+Description: An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe.
+
+Precautions: eat high calorie vegitables, antiboitic therapy, consult doctor, medication.

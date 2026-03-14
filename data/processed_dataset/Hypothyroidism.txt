@@ -1,0 +1,7 @@
+Disease: Hypothyroidism
+
+Symptoms: brittle nails, irritability, weight gain, dizziness, enlarged thyroid, cold hands and feets, lethargy, fatigue, swollen extremeties, abnormal menstruation, puffy face and eyes, mood swings, depression.
+
+Description: Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone.
+
+Precautions: reduce stress, exercise, eat healthy, get proper sleep.

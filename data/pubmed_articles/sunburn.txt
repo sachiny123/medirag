@@ -1,0 +1,158 @@
+Topic: sunburn
+
+PUBMED ABSTRACTS:
+
+1. Front Plant Sci. 2026 Feb 25;17:1779633. doi: 10.3389/fpls.2026.1779633. 
+eCollection 2026.
+
+Pre-harvest bunch bagging as an eco-safe intervention for premium quality litchi 
+production: insights from a multi-location study in India.
+
+Kumar S(1), Marboh ES(2), Purbey SK(3), Dhakar MK(4), Maiti CS(5), Sharma GL(6), 
+Sharma VK(7), Singh AK(8), Chand S(8), Sengupta S(9), Chakraborti K(10), Kaur 
+S(11), Singh NP(11), Singh S(11), Patil P(12), Devi SP(12), Kumar R(1), Dhakad 
+A(1), Samal I(1), Vijayan B(1), Das B(1).
+
+Author information:
+(1)Indian Council of Agricultural Research (ICAR)-National Research Centre on 
+Litchi, Muzaffarpur, Bihar, India.
+(2)Regional Research Centre for Citrus, Indian Council of Agricultural Research 
+(ICAR)-Central Citrus Research Institute, Bishwanath, Assam, India.
+(3)Indian Council of Agricultural Research (ICAR)-Mahatma Gandhi Integrated 
+Farming Research Institute, Motihari, Bihar, India.
+(4)Farming System Research Centre for Hill and Plateau Region, Indian Council of 
+Agricultural Research (ICAR)-Research Complex for Eastern Region, Ranchi, 
+Jharkhand, India.
+(5)Nagaland University, Medziphema, Nagaland, India.
+(6)Indira Gandhi Krishi Vishwavidyalaya, Raipur, Chhattisgarh, India.
+(7)Dr. Yashwant Singh Parmar University of Horticulture and Forestry, Solan, 
+Himachal Pradesh, India.
+(8)Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, 
+Uttarakhand, India.
+(9)Bihar Agricultural University, Bhagalpur, Bihar, India.
+(10)Bidhan Chandra Krishi Viswavidyalaya, Mohanpur, West Bengal, India.
+(11)Punjab Agricultural University, Ludhiana, Punjab, India.
+(12)Indian Council of Agricultural Research (ICAR)-Indian Institute of 
+Horticultural Research, Bengaluru, Karnataka, India.
+
+INTRODUCTION: Pre-harvest fruit bagging is recognized as an eco-safe strategy to 
+improve fruit quality and reduce biotic and abiotic stresses in high-value 
+horticultural crops. However, its effectiveness in litchi (Litchi chinensis 
+Sonn.) across diverse agro-climatic regions remains insufficiently documented. 
+This study evaluated the impact of bagging materials and application timing on 
+fruit damage, yield, and quality in litchi under multi-location conditions in 
+India.
+METHODS: Field experiments were conducted across nine major litchi-growing 
+regions over four consecutive seasons (2020-2023). Seven treatments were tested 
+in a factorial randomized block design, including white and pink non-woven 
+polypropylene bags applied at 15, 25, and 30 days after fruit set (DAFS), along 
+with an unbagged control. Data on fruit cracking, sunburn, borer infestation, 
+yield, fruit weight, total soluble solids (TSS), anthocyanin content, and 
+acidity were recorded. Statistical analyses included ANOVA, hierarchical 
+clustering, and principal component analysis (PCA).
+RESULTS: Bagging significantly reduced fruit cracking, sunburn, and borer 
+infestation, with significant location × treatment interactions (P ≤ 0.05). 
+Compared with the control, cracking and sunburn were reduced to ≤4-6% and ≤5-8%, 
+respectively, while borer infestation remained below 3% in most locations. Yield 
+increased by 10-35%, particularly when bagging was applied at 25-30 DAFS. Bagged 
+fruits showed higher fruit weight, TSS, and anthocyanin content while 
+maintaining desirable acidity.
+DISCUSSION: Pre-harvest bagging is a robust and location-resilient practice that 
+enhances litchi yield and marketable quality across diverse environments, 
+supporting its adoption as a sustainable production strategy.
+
+Copyright © 2026 Kumar, Marboh, Purbey, Dhakar, Maiti, Sharma, Sharma, Singh, 
+Chand, Sengupta, Chakraborti, Kaur, Singh, Singh, Patil, Devi, Kumar, Dhakad, 
+Samal, Vijayan and Das.
+
+DOI: 10.3389/fpls.2026.1779633
+PMCID: PMC12975981
+PMID: 41821942
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+2. Clin Cosmet Investig Dermatol. 2026 Mar 5;19:586054. doi:
+10.2147/CCID.S586054.  eCollection 2026.
+
+Efficacy Evaluation of N-Acyl-Phytosphingosine Prepared from Marula Oil Derived 
+Fatty Acids in Skin Barrier Repair.
+
+Liu Z(1), Zhu H(1), Yang Y(1), Chang H(1).
+
+Author information:
+(1)Global Research and Development Center, Shanghai Chicmax Cosmetic Co., Ltd., 
+Shanghai, People's Republic of China.
+
+PURPOSE: This study aims to assess the efficacy of a novel 
+N-acyl-phytosphingosine prepared from marula oil derived fatty acids (MO-CER 
+NPs) in repairing impaired skin barrier function.
+PATIENTS AND METHODS: MO-CER NPs were synthesized from N-acyl-phytosphingosine 
+using marula oil as a fatty acid source. Their effects on skin barrier 
+improvement were compared with those of conventional C18-CER NP. A 28-day 
+clinical trial involving 32 subjects was conducted to evaluate the efficacy of a 
+topical cream containing 0.05% MO-CER NPs on barrier-compromised skin.
+RESULTS: Treatment with MO-CER NPs alleviated UVB-induced barrier damage as 
+effectively as C18-CER NP, evidenced by increased expression of filaggrin and 
+loricrin and reduced count of sunburn cells. Notably, MO-CER NPs showed superior 
+anti-inflammatory activity. Furthermore, MO-CER NPs upregulated key genes 
+involved in ceramide biosynthesis, keratinocyte proliferation, and 
+differentiation. The clinical trial confirmed that topical application of 0.05% 
+MO-CER NPs significantly improved barrier function by reducing transepidermal 
+water loss and erythema, while increasing skin thickness and density.
+CONCLUSION: MO-CER NPs demonstrated superior efficacy over conventional C18-CER 
+NP in ameliorating skin barrier dysfunction and inflammation, highlighting its 
+potential for improving barrier-compromised skin conditions.
+
+© 2026 Liu et al.
+
+DOI: 10.2147/CCID.S586054
+PMCID: PMC12970015
+PMID: 41809528
+
+Conflict of interest statement: The authors report no conflicts of interest in 
+this work.
+
+
+3. Photochem Photobiol. 2026 Mar 6. doi: 10.1111/php.70085. Online ahead of
+print.
+
+Spectral characterization of three wearable electronic ultraviolet radiation 
+dosimeters.
+
+August L(1), Hülsen G(2), Peltoniemi J(1), Kärhä P(1), Ikonen E(1)(3).
+
+Author information:
+(1)Metrology Research Institute, Aalto University, Espoo, Finland.
+(2)Physikalisch-Meteorologisches Observatorium Davos/World Radiation Center, 
+Davos, Switzerland.
+(3)VTT Mikes, Espoo, Finland.
+
+Excessive exposure to ultraviolet (UV) radiation poses significant public health 
+risks, including DNA damage and skin-related pathologies. This necessitates 
+accurate studies and quantification of UV-radiation exposure. Various wearable 
+UV dosimeters have been developed to address these needs, particularly for 
+outdoor workers. For measuring erythemal irradiance, recommendations from the 
+World Meteorological Organization exist but standardized methods for 
+characterization and calibration of wearable UV dosimeters are currently 
+limited. At Aalto University and at Physikalisch-Meteorologisches Observatorium 
+Davos, three commercial electronic UV dosimeters were evaluated for their 
+spectral responsivities using conventional measurement methods and traceability 
+chains. The first device closely mimicked erythemal action in UV-A and UV-B 
+regions. Two of the measured devices were found to have a higher relative 
+responsivity of over 0.9 in the 300 nm to 310 nm range. Results were used to 
+calculate correction factors for measuring erythemal radiance at varying solar 
+zenith angles and ozone levels under cloud-free conditions. Typical correction 
+factors ranged from 0.98 to 1.2. The results of the two laboratories were in 
+good agreement for the most accurate device but deviated due to the properties 
+of the two other devices. The measurements revealed challenges posed by these 
+devices in terms of data management, measurement times, and deployment, 
+highlighting the need for standardized characterization methods.
+
+© 2026 The Author(s). Photochemistry and Photobiology published by Wiley 
+Periodicals LLC on behalf of American Society for Photobiology.
+
+DOI: 10.1111/php.70085
+PMID: 41789653

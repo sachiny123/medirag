@@ -1,0 +1,153 @@
+Topic: heat rash
+
+PUBMED ABSTRACTS:
+
+1. Ann Occup Environ Med. 2025 Oct;37:e30. doi: 10.35371/aoem.2025.37.e30. Epub 
+2025 Sep 2.
+
+Factors affecting heat-related illness symptoms among school food service 
+workers: a cross-sectional study in Korea.
+
+Kim N(1), Suh D(1), Ryu J(2), Jeong WC(3), Lee YK(4), Lee J(5), Kim H(1).
+
+Author information:
+(1)Department of Occupational and Environmental Medicine, Ewha Womans University 
+Mokdong Hospital, Seoul, Korea.
+(2)Department of Occupational and Environmental Medicine, Catholic Kwandong 
+University International St. Mary's Hospital, Incheon, Korea.
+(3)Department of Occupational and Environmental Medicine, Ewha Womans University 
+Seoul Hospital, Seoul, Korea.
+(4)Wonjin Institute for Occupational and Environmental Health, Seoul, Korea.
+(5)Center for Occupational and Environmental Medicine, Hanil General Hospital, 
+Seoul, Korea.
+
+BACKGROUND: School food service workers are highly likely to develop 
+heat-related illnesses because of their work environment. However, studies that 
+have examined the risk of heat-related illnesses among them are limited. The 
+purpose of this study was to investigate the status of heat exposure, 
+implementation of heat wave countermeasures, and prevalence of heat-related 
+illness symptoms among school food service workers in Korea, and to explore the 
+relationship between them.
+METHODS: A cross-sectional study was conducted through an online survey of 
+school food service workers from May 25 to June 12, 2023, via three labor 
+unions. We analyzed 6,244 valid responses. We assessed general characteristics, 
+heat-related illness symptoms (heat rash, heat cramps, heat edema, heat 
+exhaustion, heat syncope), duration of heat exposure during heat waves, and heat 
+wave preventive measures. Multiple logistic regression analyses were performed, 
+with adjustments for age, occupation, hypertension, diabetes, and school type.
+RESULTS: More than one-third of school food service workers reported heat 
+exposure between May and September exceeding 4 hours daily, and 94.6% 
+experienced at least one heat-related illness symptom during the last year. A 
+dose-response relationship was observed between heat exposure duration and 
+heat-related illness symptoms (p for trend < 0.001). School food service workers 
+who did not have increased rest periods or did not reduce high-heat prepared 
+foods showed significantly higher odds ratios for heat-related illness symptoms.
+CONCLUSIONS: School food service workers experience substantial heat exposure 
+and a high prevalence of heat-related illness symptoms. The risk of heat-related 
+illness symptoms was associated with extended duration of heat exposure. 
+Increasing rest periods and reducing high-heat food preparation were effective 
+preventive measures. These findings underscore the need for improved heat 
+exposure management and implementation of effective preventive measures to 
+protect the health of school food service workers, with particular attention to 
+appropriate rest periods.
+
+DOI: 10.35371/aoem.2025.37.e30
+PMCID: PMC12671953
+PMID: 41292203
+
+Conflict of interest statement: Competing interests Jia Ryu, contributing editor 
+of the Annals of Occupational and Environmental Medicine, was not involved in 
+the ed­itorial evaluation or decision to publish this article. All remaining 
+authors have declared no conflicts of interest.
+
+
+2. Acta Derm Venereol. 2025 May 7;105:adv43492. doi: 10.2340/actadv.v105.43492.
+
+Papular Clear Cell Hyperplasia of the Eccrine Duct with Histological Pitaya 
+Sign: Not Just "Heat Rash"!
+
+Giordano-Rosenbaum A(1), Schinagl H(2), Schneider SW(3), Rose C(4).
+
+Author information:
+(1)Department of Dermatology and Venereology, University Medical Centre 
+Hamburg-Eppendorf, Hamburg, Germany. a.giordano160@gmail.com.
+(2)Dermatology in Schenefeld, Hamburg, Germany.
+(3)Department of Dermatology and Venereology, University Medical Centre 
+Hamburg-Eppendorf, Hamburg, Germany.
+(4)Dermatopathology, Lübeck, Germany.
+
+DOI: 10.2340/actadv.v105.43492
+PMCID: PMC12078943
+PMID: 40336224
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.
+
+
+3. Cureus. 2024 Dec 2;16(12):e74951. doi: 10.7759/cureus.74951. eCollection 2024 
+Dec.
+
+The Impact of Increased Heat on the Physical, Mental, and Social Health Domains 
+of Adults in the United Arab Emirates in 2024.
+
+Al Hurini A(1), Nemmar A(1), Moawad K(1), Khan R(1), Muttappallymyalil J(2).
+
+Author information:
+(1)College of Medicine, Gulf Medical University, Ajman, ARE.
+(2)Department of Community Medicine, College of Medicine, Gulf Medical 
+University, Ajman, ARE.
+
+OBJECTIVES: The purpose of this research was to assess the impact of exposure to 
+heat on the physical, social, and mental health domains of adults residing in 
+the United Arab Emirates (UAE), where the region faces great increases in 
+temperature due to climate change. Previous research has focused mainly on 
+physical health outcomes; this research addressed the expansive impacts of 
+mental and social health, which remain understudied in the region.
+METHODS: A cross-sectional study surveyed 397 adults in the UAE using a 
+structured questionnaire. It captured all the factors on heat exposure duration, 
+physical health symptoms, and self-reported measures of mental and social 
+health while using the Depression, Anxiety, and Stress Scale (DASS) to assess 
+mental health impact. The questionnaire was validated by experts in public 
+health and psychology. Data analysis was done by using SPSS version 28 (IBM 
+Corp., Armonk, NY). A chi-square test was performed to determine the association 
+between heat exposure and health outcomes. A p-value ≤ 0.05 was considered 
+statistically significant.
+RESULTS: The study of 397 adults in the UAE found that 331 (83.4%) are exposed 
+to heat for more than two hours per day and 66 (16.6%) for two hours or less. 
+The most commonly reported health problem was heat exhaustion (n = 343 (86.4%)). 
+Other common symptoms include heat rash (n = 81 (20.4%)), heat cramps (n = 81 
+(20.4%)), heat syncope (n = 163 (41.1%)), and heat stroke (n = 171 (43.1%)). 
+Additionally, the study found that 179 (45.1%) respondents reported suffering 
+from anxiety, 141 (35.5%) respondents reported suffering from depression, and 
+stress prevalence was 11.6% for 46 participants. The study also found that a 
+significant minority reported social isolation (n = 79 (19.9%)), loneliness (n = 
+80 (20.2%)), lack of social connectedness (n = 70 (19.9%%)), low quantity or 
+quality of contact with others (n = 100 (25.2%)), lack of feeling of belonging 
+(n = 96 (24.2%)), and lack of fulfilling relationships (n = 87 (21.9%)).
+CONCLUSION: Rising heat exposure in the UAE is shown to be associated with 
+adverse effects across physical, mental, and social health domains. These 
+findings emphasize the need for public health interventions that address not 
+only the physical dangers of rising heat but also its psychological and social 
+impacts. Policymakers and healthcare providers should consider comprehensive 
+strategies to mitigate these multifaceted health risks in the face of rising 
+temperatures.
+
+Copyright © 2024, Al Hurini et al.
+
+DOI: 10.7759/cureus.74951
+PMCID: PMC11688620
+PMID: 39744307
+
+Conflict of interest statement: Human subjects: Consent for treatment and open 
+access publication was obtained or waived by all participants in this study. 
+Gulf Medical University Institutional Review Board issued approval 
+IRB/COM/STD/71/April-2022. Animal subjects: All authors have confirmed that this 
+study did not involve animal subjects or tissue. Conflicts of interest: In 
+compliance with the ICMJE uniform disclosure form, all authors declare the 
+following: Payment/services info: All authors have declared that no financial 
+support was received from any organization for the submitted work. Financial 
+relationships: All authors have declared that they have no financial 
+relationships at present or within the previous three years with any 
+organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.

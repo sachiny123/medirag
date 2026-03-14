@@ -1,0 +1,7 @@
+Disease: Bronchial Asthma
+
+Symptoms: family history, high fever, breathlessness, fatigue, mucoid sputum, cough.
+
+Description: Bronchial asthma is a medical condition which causes the airway path of the lungs to swell and narrow. Due to this swelling, the air path produces excess mucus making it hard to breathe, which results in coughing, short breath, and wheezing. The disease is chronic and interferes with daily working.
+
+Precautions: switch to loose cloothing, take deep breaths, get away from trigger, seek help.

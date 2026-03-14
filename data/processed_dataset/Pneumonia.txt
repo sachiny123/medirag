@@ -1,0 +1,7 @@
+Disease: Pneumonia
+
+Symptoms: chest pain, fast heart rate, high fever, breathlessness, rusty sputum, sweating, fatigue, chills, phlegm, cough, malaise.
+
+Description: Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe.
+
+Precautions: consult doctor, medication, rest, follow up.

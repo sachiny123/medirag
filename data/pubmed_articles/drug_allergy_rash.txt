@@ -1,0 +1,157 @@
+Topic: drug allergy rash
+
+PUBMED ABSTRACTS:
+
+1. Cureus. 2026 Mar 10;18(3):e105009. doi: 10.7759/cureus.105009. eCollection
+2026  Mar.
+
+A Diagnostic Pitfall: Carbamazepine-Induced Drug Reaction With Eosinophilia and 
+Systemic Symptoms (DRESS) Syndrome Masquerading As Angiotensin-Converting Enzyme 
+Inhibitor Angioedema.
+
+Gonzalez Alvarez RR(1).
+
+Author information:
+(1)Internal Medicine, Cape Coral Hospital, Cape Coral, USA.
+
+Drug reaction with eosinophilia and systemic symptoms (DRESS), also known as 
+drug-induced hypersensitivity syndrome (DIHS), is a severe, multiorgan, delayed 
+hypersensitivity reaction with significant morbidity. Diagnosis is often delayed 
+due to its mimicry of other conditions. We present the case of a 69-year-old 
+Hispanic male with hypertension and stage two chronic kidney disease who 
+developed trigeminal neuralgia and was started on carbamazepine. Approximately 
+seven weeks later, he presented with a generalized rash, angioedema, and mucosal 
+swelling, initially attributed to his concurrent lisinopril therapy. Despite 
+discontinuation of lisinopril and treatment with corticosteroids and 
+antihistamines, his condition progressed with new systemic symptoms, including 
+paresthesia, dysgeusia, polydipsia, polyuria, and weight loss. The progression 
+of symptoms despite this intervention was the pivotal diagnostic clue. Hospital 
+admission revealed marked eosinophilia (8.9 percent), mild transaminitis, and a 
+diffuse erythrodermic rash involving more than 90 percent of his body surface 
+area. A diagnosis of probable DRESS syndrome (RegiSCAR score six) secondary to 
+carbamazepine was made. Immediate discontinuation of carbamazepine and 
+initiation of intravenous corticosteroids led to rapid clinical and laboratory 
+improvement. He was discharged on a prolonged oral steroid taper with complete 
+resolution at follow-up. This case underscores the critical importance of 
+considering DRESS in any patient with a rash and systemic symptoms occurring two 
+to eight weeks after initiation of a high-risk drug, even in the presence of 
+other potential culprits. It highlights that clinical progression despite 
+withdrawal of one suspected agent should prompt urgent re-evaluation for an 
+alternative etiology, such as DRESS.
+
+Copyright © 2026, Gonzalez Alvarez et al.
+
+DOI: 10.7759/cureus.105009
+PMCID: PMC12978419
+PMID: 41822255
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Conflicts of interest: In compliance with the ICMJE uniform disclosure 
+form, all authors declare the following: Payment/services info: All authors have 
+declared that no financial support was received from any organization for the 
+submitted work. Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+2. Therapie. 2026 Feb 26:S0040-5957(26)00044-2. doi:
+10.1016/j.therap.2026.02.001.  Online ahead of print.
+
+Med-Timeline: Case-based evaluation of a digital tool for drug-induced skin 
+eruption causality assessment.
+
+Svabek C(1), Gautier S(2), Béné J(2), Staumont-Sallé D(3), Darras S(4), Chaveron 
+M(5), Douxami M(5), Dezoteux F(3).
+
+Author information:
+(1)CHU de Lille, Université de Lille, service de dermatologie, 59000 Lille, 
+France. Electronic address: svabekclement@gmail.com.
+(2)CHU de Lille, Université de Lille, service de pharmacologie, centre régional 
+de pharmacovigilance, 59000 Lille, France.
+(3)CHU de Lille, Université de Lille, service de dermatologie, 59000 Lille, 
+France; U1286, Inserm, INFINITE, Institute for Translational Research in 
+Inflammation, 59000 Lille, France.
+(4)CH de Boulogne-sur-Mer, service de dermatologie, 62200 Boulogne-sur-Mer, 
+France.
+(5)CHU de Lille, Université de Lille, service de dermatologie, 59000 Lille, 
+France; CH de Boulogne-sur-Mer, service de dermatologie, 62200 Boulogne-sur-Mer, 
+France.
+
+DOI: 10.1016/j.therap.2026.02.001
+PMID: 41820141
+
+Conflict of interest statement: Disclosure of interest The authors declare that 
+they have no competing interest.
+
+
+3. NPJ Digit Med. 2026 Mar 4. doi: 10.1038/s41746-026-02503-x. Online ahead of 
+print.
+
+Prediction of antibiotic-associated cutaneous adverse drug reactions using 
+electronic health record foundation models.
+
+Kim J(#)(1), Kim K(#)(2)(3), Yun JE(4), Hwang YK(5), Kang MG(5), Kim S(6), Yoo 
+S(6), Shin C(7), Kim S(8)(9)(10), Kim K(11)(12)(13), Kim SH(14)(15)(16).
+
+Author information:
+(1)Interdisciplinary Program in Bioengineering, Seoul National University, 
+Seoul, Republic of Korea.
+(2)Department of Pediatrics, Seoul National University Bundang Hospital, 
+Seongnam, Republic of Korea.
+(3)Department of Pediatrics, Seoul National University College of Medicine, 
+Seoul, Republic of Korea.
+(4)Department of Internal Medicine, Chung-Ang University College of Medicine, 
+Seoul, Republic of Korea.
+(5)Department of Internal Medicine, Chungbuk National University College of 
+Medicine and Chungbuk National University Hospital, Cheongju, Republic of Korea.
+(6)Healthcare ICT Research Center, Office of eHealth Research and Businesses, 
+Seoul National University Bundang Hospital, Seongnam, Republic of Korea.
+(7)Interdisciplinary Program of Medical Informatics, Seoul National University, 
+Seoul, Republic of Korea.
+(8)Department of Transdisciplinary Medicine, Seoul National University Hospital, 
+Seoul, Republic of Korea.
+(9)Department of Clinical Medical Sciences, Seoul National University College of 
+Medicine, Seoul, Republic of Korea.
+(10)Center for Data Science, Healthcare AI Research Institute, Seoul National 
+University Hospital, Seoul, Republic of Korea.
+(11)Department of Transdisciplinary Medicine, Seoul National University 
+Hospital, Seoul, Republic of Korea. kwangsookim@snu.ac.kr.
+(12)Center for Data Science, Healthcare AI Research Institute, Seoul National 
+University Hospital, Seoul, Republic of Korea. kwangsookim@snu.ac.kr.
+(13)Department of Medicine, Seoul National University College of Medicine, 
+Seoul, Republic of Korea. kwangsookim@snu.ac.kr.
+(14)Department of Internal Medicine, Seoul National University Bundang Hospital, 
+Seongnam, Republic of Korea. shkrins@snu.ac.kr.
+(15)Department of Internal Medicine, Seoul National University College of 
+Medicine, Seoul, Republic of Korea. shkrins@snu.ac.kr.
+(16)Institute of Allergy and Clinical Immunology, Seoul National University 
+Medical Research Center, Seoul, Republic of Korea. shkrins@snu.ac.kr.
+(#)Contributed equally
+
+Cutaneous adverse drug reactions (CADRs) are the most common form of adverse 
+drug reactions, ranging from mild rashes to life-threatening diseases, such as 
+Stevens-Johnson syndrome and toxic epidermal necrolysis. However, there is no 
+effective tool to predict antibiotic-associated CADRs. In this study, we propose 
+an antibiotic-associated CADR prediction model using electronic health record 
+(EHR) foundation models (FMs). EHR FMs are based on the pretraining-finetuning 
+paradigms of language models, corresponding medical codes and their sequences to 
+words and sentences. We included 802,131 inpatients across three tertiary 
+hospitals in Korea, combining EHR data with nursing statements and reports to 
+extract skin rash records. Our approach achieved the best predictive performance 
+compared to all the other baseline models across all datasets. To enhance 
+clinical relevance, we classified CADRs into immediate and delayed types and 
+conducted a detailed sub-analysis. Finally, we found that properly configured 
+EHR FMs can effectively predict the risk of developing antibiotics-associated 
+CADRs, particularly for delayed-type reactions where predictive testing options 
+are limited.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41746-026-02503-x
+PMID: 41775818
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.

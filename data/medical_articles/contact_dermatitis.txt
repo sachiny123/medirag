@@ -1,0 +1,19 @@
+Title: Contact dermatitis
+
+Summary:
+Contact dermatitis is a type of acute or chronic inflammation of the skin caused by exposure to chemical or physical agents. Symptoms of contact dermatitis can include itchy or dry skin, a red rash, bumps, blisters, or swelling. These rashes are not contagious or life-threatening, but can be very uncomfortable.
+Contact dermatitis results from either exposure to allergens (allergic contact dermatitis), or irritants (irritant contact dermatitis). Allergic contact dermatitis involves a delayed type of hypersensitivity and previous exposure to an allergen to produce a reaction. Irritant contact dermatitis is the most common type and represents 80% of all cases. It is caused by prolonged exposure to irritants, leading to direct injury of the epidermal cells of the skin, which activates an immune response, resulting in an inflammatory cutaneous reaction. Phototoxic dermatitis occurs when the allergen or irritant is activated by sunlight. Diagnosis of allergic contact dermatitis can often be supported by patch testing.
+
+Main Section Extract:
+Contact dermatitis is a type of acute or chronic inflammation of the skin caused by exposure to chemical or physical agents. Symptoms of contact dermatitis can include itchy or dry skin, a red rash, bumps, blisters, or swelling. These rashes are not contagious or life-threatening, but can be very uncomfortable.
+Contact dermatitis results from either exposure to allergens (allergic contact dermatitis), or irritants (irritant contact dermatitis). Allergic contact dermatitis involves a delayed type of hypersensitivity and previous exposure to an allergen to produce a reaction. Irritant contact dermatitis is the most common type and represents 80% of all cases. It is caused by prolonged exposure to irritants, leading to direct injury of the epidermal cells of the skin, which activates an immune response, resulting in an inflammatory cutaneous reaction. Phototoxic dermatitis occurs when the allergen or irritant is activated by sunlight. Diagnosis of allergic contact dermatitis can often be supported by patch testing.
+
+
+== Epidemiology ==
+Metanalysis of research on the incidence and prevalence of contact dermatitis suggests that as much as 20% of the general population is contact‐allergic to patch tests for common environmental allergens. Prevalence is lower in people under 18 years of age, and higher in women than in men.
+Contact dermatitis constitutes 90% to 95% of all occupational skin disorders.
+
+
+== Signs and symptoms ==
+Contact dermatitis is a localized rash or irritation of the skin caused by contact with a foreign substance. Only the superficial regions of the skin are affected in contact dermatitis. Inflammation of the affected tissue is present in the epidermis (the outermost layer of skin) and the outer dermis (the layer beneath the epidermis).
+Contact dermatitis results in large, burning, and itchy rashes. These can take anywhere from several days to weeks to heal. This differentiates it from contact urticaria (hives), in which a rash appears within minutes of

@@ -1,0 +1,150 @@
+Topic: viral fever
+
+PUBMED ABSTRACTS:
+
+1. Cureus. 2026 Jan 13;18(1):e101418. doi: 10.7759/cureus.101418. eCollection
+2026  Jan.
+
+Navigating Potential Dengue and Its Mimics in a Febrile Returning Traveller: A 
+Case Report.
+
+Moran C(1).
+
+Author information:
+(1)Emergency Medicine, Manchester Royal Infirmary, Manchester, GBR.
+
+Fever is a common symptom in returning travellers. This prompts healthcare 
+providers to consider and investigate potentially serious infections requiring 
+timely diagnosis and management. The following case describes a traveller 
+returning from Bangladesh presenting with symptoms indicative of dengue. These 
+include fever, rash, nausea, vomiting, myalgia and conjunctivitis. However, his 
+symptoms defied the expected pattern of presentation, posing a diagnostic 
+challenge. No laboratory confirmation of prior dengue infection was available. 
+He was discharged as having a viral fever with a rash and the possibility that 
+this was a secondary infection occurring after dengue. The case highlights the 
+complexity of febrile travellers. It also reviews the literature on dengue, 
+offering important learning opportunities for clinicians encountering comparable 
+presentations. The case emphasises the need for a balanced diagnostic approach 
+in thoroughly ruling out serious tropical infections without neglecting common 
+community-acquired viruses.
+
+Copyright © 2026, Moran et al.
+
+DOI: 10.7759/cureus.101418
+PMCID: PMC12895374
+PMID: 41694891
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Conflicts of interest: In compliance with the ICMJE uniform disclosure 
+form, all authors declare the following: Payment/services info: All authors have 
+declared that no financial support was received from any organization for the 
+submitted work. Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.
+
+
+2. Front Cell Infect Microbiol. 2025 Dec 11;15:1670259. doi: 
+10.3389/fcimb.2025.1670259. eCollection 2025.
+
+Elucidation of neutrophils-mediated effect of MMP-2 on lung epithelial cells; 
+implications for acute respiratory distress syndrome and severe dengue 
+pathogenesis.
+
+Niranjan R(#)(1)(2), Ganesh K(#)(3), Sunil A(1), Murugasamy V(1), Vidhyapriya 
+P(1), Subramaniam M(4), Kumar A(1).
+
+Author information:
+(1)Immunology Laboratories, Division of Microbiology and Immunology, ICMR-Vector 
+Control Research Centre, Puducherry, India.
+(2)Division of Immunology, Indian Council of Medical Research (ICMR)-National 
+Institute of Research in Tribal Health, Jabalpur, India.
+(3)Division of Molecular Biology and Immunology, ICMR- Vector Control Research 
+Centre (ICMR-VCRC), Puducherry, India.
+(4)Division of Molecular Epidemiology, Indian Council of Medical Research 
+(ICMR)-Vector Control Research Centre, Puducherry, India.
+(#)Contributed equally
+
+Dengue is a vector-borne viral fever that is spread by the bites of Aedes 
+mosquitoes. Matrix metalloproteinases (MMPs) play a significant role in the 
+beginning and development of dengue pathogenesis, but their precise functions 
+with respect to neutrophil-associated lung pathology are not understood. In the 
+present study, we, for the first time, report that in-vitro cultured neutrophils 
+secrete MMP-2 in response to dengue virus NS1 antigens in culture medium (the 
+secretome). We have assessed the effect of neutrophil secretome on the apoptosis 
+of A549 lung epithelial cells and found that it causes their death. This 
+suggested that neutrophils cause apoptosis of lung epithelial cells via 
+MMP-2-mediated mechanisms. The exposure of purified MMP-2 protein has also 
+caused cell death of A549 epithelial cells by increasing the mRNA expression 
+pattern of apoptotic genes. Atorvastatin (10 µM) treatment attenuated the change 
+in the release of MMP-2 and further decreased the apoptosis of lung epithelial 
+cells. Interestingly, it was seen that MMP-14 alone and NS1 antigen alone do not 
+cause the apoptosis of lung epithelial cells, ruling out their direct 
+involvement. The interactions of CD31-positive neutrophils in lungs and MMP-2 
+expression were also found in NS1-injected mice, supporting their role in 
+in-vivo situations. In conclusion, this study suggests that the interaction of 
+NS1-activated neutrophils with the alveolar epithelial cells participates in the 
+lung pathogenesis involved in the acute respiratory distress syndrome (ARDS) in 
+severe dengue disease. The present results are encouraging; however, further 
+investigations are required to clarify the findings.
+
+Copyright © 2025 Niranjan, Ganesh, Sunil, Murugasamy, Vidhyapriya, Subramaniam 
+and Kumar.
+
+DOI: 10.3389/fcimb.2025.1670259
+PMCID: PMC12738819
+PMID: 41459161 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+3. Microbiol Immunol. 2026 Mar;70(3):160-165. doi: 10.1111/1348-0421.70036. Epub 
+2025 Dec 24.
+
+Detection of Anti-Orthohantavirus Antibodies in Febrile Patients in India.
+
+Chandy S(1)(2), Chandra RS(3), Sharma D(4), Goyal G(4), Das T(4), Martynova 
+E(5), Kabwe E(5), Rizvanov A(5), Khaiboullina S(5), Baranwal M(4).
+
+Author information:
+(1)The CHILDS Trust Medical Research Foundation (CTMRF), Chennai, India.
+(2)School of Healthcare Science and Engineering (SHINE), Vellore Institute of 
+Technology (VIT), Vellore, Tamil Nadu, India.
+(3)Lisie Hospital, Kochi, India.
+(4)Department of Biotechnology, Thapar Institute of Engineering and Technology, 
+Patiala, Punjab, India.
+(5)Institute of Fundamental Medicine and Biology, Kazan (Volga Region) Federal 
+University, Kazan, Russia.
+
+Orthohantaviruses are a genus of zoonotic viruses from the family Hantaviridae, 
+which is primarily known for their ability to cause severe human diseases. The 
+virus is primarily known for causing two major human diseases, hantavirus 
+pulmonary syndrome and hemorrhagic fever with renal syndrome. However, the 
+frequency of this infection remains largely unknown. Hence, the aim of this 
+study was to diagnose patients infected with Orthohantavirus in India. We tested 
+serum samples from 216 febrile patients, presented at Lisie Hospital, Kochi, for 
+positive anti-orthohantavirus IgM and IgG antibodies. All the participating 
+patients were negative for dengue and scrub typhus IgM antibodies. In total, 
+16.20% (n = 35) of the febrile patients were positive for anti-orthohantavirus 
+IgM and 11.57% (n = 25) for anti-orthohantavirus IgG antibodies. 
+Anti-orthohantavirus IgM and IgG both were detected in 4.63% (n = 10) of the 
+enrolled subjects. In total, 51.43% of the IgM-positive patients had a final 
+diagnosis of either viral fever or acute febrile disease, with only two patients 
+reported to have contact with rodents, and none of these patients had traveled 
+outside of their place of residence. Orthohantavirus infections may be endemic 
+in India, as their hosts are omnipresent. However, the lack of proper diagnostic 
+tools and limited awareness of these emerging infections amongst doctors in 
+India reduces the diagnosis of the disease. Therefore, there is a pressing need 
+for educating healthcare providers about the circulation of orthohantaviruses in 
+India. There is an urgent need for the development of serotype-specific, 
+affordable, and accurate diagnostic tools for early diagnosis of orthohantavirus 
+infections.
+
+© 2025 The Societies and John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/1348-0421.70036
+PMID: 41437794 [Indexed for MEDLINE]

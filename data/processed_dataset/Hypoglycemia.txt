@@ -1,0 +1,7 @@
+Disease: Hypoglycemia
+
+Symptoms: irritability, headache, blurred and distorted vision, excessive hunger, sweating, fatigue, anxiety, drying and tingling lips, slurred speech, palpitations, vomiting, nausea.
+
+Description:  Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions — many rare — can cause low blood sugar in people who don't have diabetes.
+
+Precautions: lie down on side, check in pulse, drink sugary drinks, consult doctor.

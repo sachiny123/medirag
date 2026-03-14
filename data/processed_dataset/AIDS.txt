@@ -1,0 +1,7 @@
+Disease: AIDS
+
+Symptoms: high fever, extra marital contacts, patches in throat, muscle wasting.
+
+Description: Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease.
+
+Precautions: avoid open cuts, wear ppe if possible, consult doctor, follow up.

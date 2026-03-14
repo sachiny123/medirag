@@ -1,0 +1,137 @@
+Topic: insect bites
+
+PUBMED ABSTRACTS:
+
+1. Arch Iran Med. 2025 Nov 1;28(11):657-659. doi: 10.34172/aim.35002. Epub 2025
+Nov  1.
+
+Herpes Zoster in a 9-Month-Old Immunocompetent Infant.
+
+Alammar M(1).
+
+Author information:
+(1)Department of Family Medicine, Shaqra College of Medicine, Shaqra University, 
+Shaqra, Saudi Arabia.
+
+Herpes zoster (HZ), caused by varicella-zoster virus (VZV) reactivation, is rare 
+in infants, typically linked to maternal VZV exposure during pregnancy. This 
+case describes HZ presentation in a healthy infant without a clear exposure 
+history. A 9-month-old immunocompetent female presented with a two-day fever and 
+unilateral, dermatomal rash of vesicular lesions along the C5 dermatome. Initial 
+misdiagnoses of insect bites or eczema delayed treatment. Diagnostic tests, 
+including Tzanck smear showing multinucleated giant cells, confirmed HZ, with 
+normal blood counts and negative maternal VZV antibodies, suggesting subclinical 
+primary infection. Oral acyclovir (20 mg/kg/dose, five times daily for seven 
+days) led to full recovery without complications. This case highlights HZ as a 
+rare but important differential diagnosis for unilateral vesicular rashes in 
+infants. It underscores the need for research into VZV reactivation mechanisms 
+in early childhood.
+
+© 2025 The Author(s). This is an open-access article distributed under the terms 
+of the Creative Commons Attribution License 
+(https://creativecommons.org/licenses/by/4.0), which permits unrestricted use, 
+distribution, and reproduction in any medium, provided the original work is 
+properly cited.
+
+DOI: 10.34172/aim.35002
+PMCID: PMC12958432
+PMID: 41778437 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests The author declares no 
+conflict of interest.
+
+
+2. Diagn Microbiol Infect Dis. 2026 May;115(1):117305. doi: 
+10.1016/j.diagmicrobio.2026.117305. Epub 2026 Feb 4.
+
+Ecthyma gangrenosum in a young neutropenic patient with recent Dengue virus 
+infection.
+
+Catania F(1), Salvati F(2), Sangiorgi F(3), Frondizi F(4), Damiano F(5), Taccari 
+F(5), Lucia MBP(5), Scoppettuolo G(5), Torti C(5).
+
+Author information:
+(1)Dipartimento di Sicurezza e Bioetica, Università Cattolica del Sacro Cuore, 
+Rome, Italy; UOC Malattie Infettive ad Interesse Chirurgico, Clinical Diseases 
+Department, National Institute for Infectious Diseases Lazzaro Spallanzani 
+IRCCS, Rome, Italy. Electronic address: francesca.mcat@gmail.com.
+(2)Dipartimento di Sicurezza e Bioetica, Università Cattolica del Sacro Cuore, 
+Rome, Italy; Department of Health Sciences, Clinic of Infectious Diseases, San 
+Paolo Hospital, ASST Santi Paolo e Carlo, University of Milan, Milan, Italy.
+(3)Dipartimento di Sicurezza e Bioetica, Università Cattolica del Sacro Cuore, 
+Rome, Italy; UOC Malattie Infettive ad Interesse Chirurgico, Clinical Diseases 
+Department, National Institute for Infectious Diseases Lazzaro Spallanzani 
+IRCCS, Rome, Italy.
+(4)Dipartimento di Sicurezza e Bioetica, Università Cattolica del Sacro Cuore, 
+Rome, Italy.
+(5)Dipartimento di Sicurezza e Bioetica, Università Cattolica del Sacro Cuore, 
+Rome, Italy; UOC Malattie Infettive - Dipartimento Scienze Mediche e 
+Chirurgiche, Fondazione Policlinico Universitario A. Gemelli IRCCS, Rome, Italy.
+
+Ecthyma gangrenosum (EG) is an uncommon manifestation of Pseudomonas aeruginosa 
+bloodstream infection (BSI), which mostly affects immunocompromised individuals. 
+We describe the case of a 30-year-old woman with hyperthyroidism on methimazole 
+who developed fever, skin and gingival lesions after returning from Nepal, where 
+she experienced insect bites and discontinued methimazole. She presented with 
+severe neutropenia and hemorrhagic and bullous gingival and face skin lesions. 
+Isolation from blood cultures of P. aeruginosa prompted the start of antibiotic 
+therapy with ciprofloxacin, leading to an improvement in clinical conditions, 
+resolution of leukopenia and healing of lesions. Meanwhile, Dengue virus IgM 
+seroconversion was detected. Dengue virus infection may have caused transient 
+immunosuppression, contributing to the development of EG. The lack of worsening 
+neutropenia after reintroducing methimazole further supports Dengue virus 
+infection as the underlying cause. This case underlines the potential role of 
+Dengue virus in causing immunosuppression, predisposing to BSI from P. 
+aeruginosa and EG.
+
+Copyright © 2026. Published by Elsevier Inc.
+
+DOI: 10.1016/j.diagmicrobio.2026.117305
+PMID: 41690243 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+3. Insect Bites.
+
+Powers J(1), Syed HA(2), McDowell RH(3).
+
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 
+Jan–.
+2026 Feb 15.
+
+Author information:
+(1)Campbell Univ. School of Osteopathic Med
+(2)Sheikh Zayed Hospital, Lahore
+(3)Resurrection Medical Center
+
+The term “bug bite” commonly refers to bites and stings inflicted by the members 
+of the phylum Arthropoda. Arthropods comprise the largest division of the animal 
+kingdom, accounting for approximately 80% of all known animal species. Their 
+defining characteristics include an exoskeleton, jointed appendages, and a body 
+composed of specialized regional segments. The 4 medically significant classes 
+of arthropods include Chilopoda, Diplopoda, Insecta, and Arachnida. Among these, 
+Insecta, representing more than half of all living organisms, and Arachnida 
+exert the greatest clinical impact on humans. Erythematous and edematous 
+eruptions, along with other dermatologic findings such as papules and urticaria, 
+represent the most common clinical manifestations of arthropod bites and stings. 
+In some cases, delivery of toxic venom can produce significant systemic 
+reactions, including autonomic instability, neurotoxicity, and organ failure. 
+Acute anaphylactic reactions may be rapidly fatal, most commonly due to 
+angioedema or circulatory collapse, thereby making rapid recognition and 
+administration of epinephrine critical in these cases. The most clinically 
+significant consequence of arthropod bites, however, is their role as vectors 
+for numerous bacterial, viral, and protozoal diseases.
+
+Copyright © 2026, StatPearls Publishing LLC.
+
+PMID: 30725920
+
+Conflict of interest statement: Disclosure: Jim Powers declares no relevant 
+financial relationships with ineligible companies. Disclosure: Hasnain Syed 
+declares no relevant financial relationships with ineligible companies. 
+Disclosure: Rachel McDowell declares no relevant financial relationships with 
+ineligible companies.

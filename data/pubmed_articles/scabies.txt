@@ -1,0 +1,155 @@
+Topic: scabies
+
+PUBMED ABSTRACTS:
+
+1. Clin Exp Dermatol. 2026 Mar 13:llag113. doi: 10.1093/ced/llag113. Online ahead
+ of print.
+
+Microscopic clearance with ivermectin-permethrin combination versus permethrin 
+alone in non-crusted scabies: a retrospective cohort study.
+
+Kim YJ(1), Kim SM(1), Jung HC(1), Kim SS(1), Kim CW(1).
+
+Author information:
+(1)Department of Dermatology, Kangdong Sacred Heart Hospital, Hallym University 
+College of Medicine, Seoul, South Korea.
+
+BACKGROUND: Scabies is a common problem in dermatology clinics, with an 
+increasing burden in long-term care facilities (LTCHs). Recent guidelines 
+recognise both topical 5% permethrin and oral ivermectin as first-line treatment 
+options for non-crusted scabies, while combination therapy is primarily 
+recommended for crusted scabies. Management in routine practice remains 
+challenging, particularly in patients with heavier infestation, and evidence 
+supporting combination strategies in non-crusted scabies remains limited.
+OBJECTIVE: To evaluate real-world microscopic treatment outcomes of oral 
+ivermectin plus topical permethrin compared with permethrin monotherapy, 
+including time to microscopic cure and microscopic persistence at weeks 2 and 4.
+METHODS: We conducted a retrospective cohort study of 429 outpatients with 
+microscopically confirmed non-crusted scabies at a single Korean centre 
+(2018-2025). Patients received weekly topical permethrin plus oral ivermectin 
+(200 µg/kg) (n = 204) or topical permethrin alone (n = 225) according to routine 
+clinical practice.
+RESULTS: Time to microscopic cure was shorter with combination therapy than with 
+monotherapy (2.10 ± 0.90 vs 2.31 ± 1.09 weeks; P = 0.034). At week 2, 
+microscopic persistence occurred in 30.4% of the combination group and 35.1% of 
+the monotherapy group (P = 0.349). By week 4, persistent positivity occurred 
+only in the monotherapy group (0% vs 3.1%; P = 0.016).
+CONCLUSIONS: In a real-world outpatient setting, ivermectin-permethrin 
+combination therapy was associated with earlier microscopic clearance than 
+permethrin monotherapy. These findings suggest that combination therapy may be 
+considered in selected patients with heavier infestation or in settings where 
+rapid parasitological clearance is a priority.
+
+© The Author(s) 2026. Published by Oxford University Press on behalf of British 
+Association of Dermatologists. All rights reserved. For commercial re-use, 
+please contact reprints@oup.com for reprints and translation rights for 
+reprints. All other permissions can be obtained through our RightsLink service 
+via the Permissions link on the article page on our site—for further information 
+please contact journals.permissions@oup.com.
+
+DOI: 10.1093/ced/llag113
+PMID: 41821509
+
+
+2. Nat Commun. 2026 Mar 13. doi: 10.1038/s41467-026-70575-0. Online ahead of
+print.
+
+Structure of a pH-sensitive pentameric ligand-gated ion channel from the 
+Sarcoptes scabies mite.
+
+Kleiz-Ferreira J(1), Brams M(2), Harrison PJ(3), Gallagher CI(2), Nys M(2), 
+Donze Y(4), Quigley A(3), Bertrand D(4), Ulens C(5).
+
+Author information:
+(1)Laboratory of Structural Neurobiology, Department of Cellular and Molecular 
+Medicine, Faculty of Medicine, KU Leuven, Leuven, Belgium. 
+jessica.kleiz@kuleuven.be.
+(2)Laboratory of Structural Neurobiology, Department of Cellular and Molecular 
+Medicine, Faculty of Medicine, KU Leuven, Leuven, Belgium.
+(3)Membrane Protein Laboratory, Diamond Light Source, Research Complex at 
+Harwell, Didcot, UK.
+(4)HiQscreen, 1222 Vésenaz, Geneva, Switzerland.
+(5)Laboratory of Structural Neurobiology, Department of Cellular and Molecular 
+Medicine, Faculty of Medicine, KU Leuven, Leuven, Belgium. 
+chris.ulens@kuleuven.be.
+
+Scabies is a skin infestation caused by the mite Sarcoptes scabiei and 
+represents a substantial global health burden exacerbated by emerging resistance 
+to ivermectin. An anionic pentameric ligand-gated ion channel from the mite, 
+SsCl, shows pH-sensitivity and is significantly modulated by ivermectin. Here, 
+we use cryo-EM and electrophysiology to explore the pH-sensing mechanisms of 
+SsCl and the impact of ivermectin on channel activity. Structures of SsCl were 
+resolved in closed (pH 6.5) and desensitized (pH 9) states, alongside 
+ivermectin-bound conformations. The desensitized structure adopts an unexpected 
+hourglass conformation, suggesting a gating mechanism closer related to 
+cation-selective channels. Structural analysis and mutagenesis identify 
+extracellular histidine and glutamic acid residues that impact the 
+pH-sensitivity, likely contributing to a broader pH-sensing network. 
+Ivermectin-bound structures reveal pH-dependent modulation, enhancing open-state 
+prevalence at pH 9 and enabling atypical activation at pH 6.5. These findings 
+offer initial insights into SsCl's pH-sensitivity and ivermectin's activity, 
+informing next-generation antiparasitic design.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41467-026-70575-0
+PMID: 41820392
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+3. Vet Parasitol. 2026 Mar 10;344:110746. doi: 10.1016/j.vetpar.2026.110746.
+Online  ahead of print.
+
+Innovative naringin-ivermectin combination for improved scabies management and 
+dermal healing in rabbits.
+
+Hassanen EI(1), Sherif AA(2), Eldin ZE(3), Abuowarda M(4), Ibrahim MA(5), 
+Doghaim R(2).
+
+Author information:
+(1)Department of Pathology, Faculty of Veterinary Medicine, Cairo University, 
+Giza, Egypt. Electronic address: eme_amr@cu.edu.eg.
+(2)Department of Pathology, Faculty of Veterinary Medicine, Cairo University, 
+Giza, Egypt.
+(3)Materials Science and Nanotechnology Department, Faculty of Postgraduate 
+Studies for Advanced Science, Beni-Suef 62511, Egypt.
+(4)Department of Parasitology, Faculty of Veterinary Medicine, Cairo University, 
+PO 12211, Giza, Egypt.
+(5)Department of Biochemistry and Molecular Biology, Faculty of Veterinary 
+Medicine, Cairo University, Giza, Egypt.
+
+Sarcoptic mange, caused by Sarcoptes scabiei, is a prevalent parasitic skin 
+disease in rabbits, causing deleterious economic losses via reducing production 
+and reproduction. The present study aimed to elucidate the role of naringin 
+(NG), either pure or nanoformulation (NGNPs), in enhancing the acaricidal 
+efficacy of ivermectin (IVM) against sarcoptic mange in rabbits. Twenty-five 
+adult male rabbits were enrolled in this study and divided into 5 groups 
+(n = 5). Group 1: negative control (healthy, non-infected, untreated); Group 2: 
+positive control (infected, untreated); Group 3 (IVM) received s/c IVM 
+(1.5 mg/kg) and topical IVM (0.1%) twice, 14 days apart; Group 4 (IVM+NG) 
+received IVM + oral NG (7.5 mg/kg bwt/day for 28 consecutive days); Group 5 
+(IVM+NGNPs) received IVM + oral NGNPs (7.5 mg/kg bwt/day for 28 consecutive 
+days). The acaricidal efficacy of the treatments was assessed based on clinical 
+signs, growth performance, parasitological examination, inflammatory gene 
+expression, histopathological changes, and immunological parameters. The 
+combination of IVM with NG, particularly its nanoformulation, improved growth 
+performance, eliminated the parasite after 14 days post-treatment, and 
+accelerated skin healing. The anti-inflammatory potential of NGNPs was confirmed 
+by a significant downregulation of the transcript levels of NF-κB, TNF-α, and 
+IL-1β alongside weak expression of both iNOS and CD3 in the skin tissues. The 
+study concluded that the daily oral supplementation of NGNPs can act as a 
+powerful cofactor for IVM to completely eliminate the parasite from rabbits, 
+accelerate skin healing, enhance rabbits' immunity, protect many organs from 
+damage, and therefore increase their growth performance.
+
+Copyright © 2026 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.vetpar.2026.110746
+PMID: 41819773
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
