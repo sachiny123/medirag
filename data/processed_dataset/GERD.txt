@@ -1,0 +1,7 @@
+Disease: GERD
+
+Symptoms: chest pain, acidity, ulcers on tongue, vomiting, stomach pain, cough.
+
+Description: Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD.
+
+Precautions: avoid fatty spicy food, avoid lying down after eating, maintain healthy weight, exercise.

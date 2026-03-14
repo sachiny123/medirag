@@ -1,0 +1,7 @@
+Disease: Drug Reaction
+
+Symptoms: burning micturition, stomach pain, spotting  urination, itching, skin rash.
+
+Description: An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs.
+
+Precautions: stop irritation, consult nearest hospital, stop taking drug, follow up.

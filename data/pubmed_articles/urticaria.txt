@@ -1,0 +1,123 @@
+Topic: urticaria
+
+PUBMED ABSTRACTS:
+
+1. Ewha Med J. 2026 Mar 13. doi: 10.12771/emj.2026.01207. Online ahead of print.
+
+Nociceptive pain as a clinical presentation of chronic urticaria and 
+disappearance with immunoglobulin/histamine complex therapy: a case report.
+
+Kim HS(1)(2), Kim DH(3), Nam Y(3), Sohn JE(3), Noh G(4).
+
+Author information:
+(1)Department of Biomedical Sciences, College of Natural Science, Dong-A 
+University, Busan, Korea.
+(2)Department of Health Sciences, The Graduate School of Dong-A University, 
+Busan, Korea.
+(3)Department of Anesthesiology, Cheju Halla General Hospital, Jeju, Korea.
+(4)Department of Allergy and Clinical Immunology, Cheju Halla General Hospital, 
+Jeju, Korea.
+
+Itching is a representative manifestation of urticaria. However, under certain 
+conditions, urticaria may be characterized by nociceptive sensations, such as 
+stinging or tingling, either instead of or in addition to itching. Three 
+patients with chronic urticaria (CU) who experienced nociceptive pain 
+accompanied by itching were identified and treated with immunoglobulin/histamine 
+complex (IHC) therapy. Nociceptive pain resolved along with improvement in CU 
+symptoms after 8 injections of IHC in the first patient and after 4 injections 
+in the second and third patients. Nociceptive pain may present as a symptom of 
+CU. The clinical characteristics of the transition from itching to nociceptive 
+pain, together with the observed outcomes of IHC therapy, appear to support the 
+intensity theory explaining this shift, which may be mediated by histamine. 
+Further clinical and basic immunological studies are warranted to clarify the 
+underlying mechanisms.
+
+DOI: 10.12771/emj.2026.01207
+PMID: 41821224
+
+
+2. Dermatol Ther (Heidelb). 2026 Mar 12. doi: 10.1007/s13555-026-01678-1. Online 
+ahead of print.
+
+Podcast: Adherence to Injectables.
+
+Sánchez J(1).
+
+Author information:
+(1)Group of Clinical and Immunological Research, "Alma Mater de Antioquia" 
+Hospital, University of Antioquia, Medellín, Colombia. jotamsc@yahoo.com.
+
+Patients with chronic illnesses, especially those with autoimmune conditions 
+such as rheumatoid arthritis, chronic urticaria, Crohn's disease, psoriasis, and 
+diabetes, rely on injectable therapies for disease management. However, it is 
+well established that patients with chronic illnesses often have poor adherence 
+to therapy, with adherence rates reported to be approximately 50%. This leads to 
+issues with gauging treatment efficacy, potentially leading to worsening of 
+their disease, thus more appointments with healthcare professionals (HCPs), and 
+consequently a higher cost burden placed on healthcare systems. Hence, there is 
+an unmet need to educate HCPs on the topic of supporting patients to optimize 
+the use of injectable therapies. In this podcast, Professor Jorge Sánchez of the 
+University of Antioquia, Medellín, Colombia, brings awareness to some of the key 
+causes of non-adherence to injectable therapy, explains how to identify patients 
+who are at high risk for non-adherence, and discusses how issues with the use of 
+injectables can be managed or improved to increase adherence. The podcast also 
+highlights some patient-focused means of improving treatment adherence, such as 
+providing patient counseling, education, and practice administration sessions to 
+help with patient confidence and empowerment. In conclusion, there is a need for 
+HCPs to identify and improve poor adherence to injectable therapies among 
+patients with chronic illnesses. Podcast video (MP4 157107 KB).
+
+© 2026. The Author(s).
+
+DOI: 10.1007/s13555-026-01678-1
+PMID: 41820745
+
+Conflict of interest statement: Declarations. Conflict of Interest: Professor 
+Sánchez has been an advisor and speaker for Novartis AG; Sanofi SA; Glaxon; 
+AstraZeneca PLC; Becton Dickinson and Company; Foundation for Advanced Education 
+in the Sciences, Inc; Galderma SA; Nettle Pharma; and Thermo Fisher Scientific 
+Inc. Ethical Approval: This article is based on previously conducted studies and 
+does not contain any new studies with human participants or animals performed by 
+the author.
+
+
+3. Contact Dermatitis. 2026 Mar 12. doi: 10.1111/cod.70137. Online ahead of
+print.
+
+Occupational Contact Urticaria, Protein Contact Dermatitis and Concomitant 
+Airway Diseases in the Finnish Register of Occupational Diseases in 2005-2020: 
+Main Causes and Occupations at Risk.
+
+Ojanen V(1), Airaksinen L(2), Suojalehto H(2), Koskela K(1), Pesonen M(2).
+
+Author information:
+(1)Occupational Medicine, Finnish Institute of Occupational Health, Tampere, 
+Finland.
+(2)Occupational Medicine, Finnish Institute of Occupational Health, Helsinki, 
+Finland.
+
+BACKGROUND: Occupational contact urticaria (OCU) and protein contact dermatitis 
+(PCD) may co-exist with occupational asthma (OA) and occupational rhinitis (OR) 
+and be caused by the same allergen. These diseases are commonly caused by 
+immediate (immunoglobulin E (IgE)-mediated) allergic sensitisation. Limited data 
+exist on the prevalence and causes of concomitant occupational skin and airway 
+diseases (CSAD).
+OBJECTIVES: To analyse data from the Finnish Register of Occupational Diseases 
+(FROD) for prevalence, main causes, and at-risk occupations for concomitant 
+occupational skin and airway diseases.
+METHODS: Data on recognised cases of OCU, PCD, OA and OR in the years 2005-2020 
+(n = 2413) were retrieved from FROD and analysed.
+RESULTS: Among OCU/PCD cases, 27% had OA, OR, or both. Conversely, 10% of OA 
+cases and 14% of OR cases had OCU/PCD. Concomitant diseases were most common in 
+farming, animal care, and food-related jobs. Shared causative exposures were 
+identified in 89% of cases, with cow dander, wheat flour, and chemicals being 
+the most frequent.
+CONCLUSIONS: Concomitant occupational skin and airway diseases caused by shared 
+work-related allergens are relatively common. When evaluating patients with 
+occupational immediate allergy, both skin and airway symptoms should be 
+considered.
+
+© 2026 The Author(s). Contact Dermatitis published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cod.70137
+PMID: 41819612

@@ -1,0 +1,133 @@
+Topic: ringworm
+
+PUBMED ABSTRACTS:
+
+1. PLoS One. 2026 Mar 12;21(3):e0344010. doi: 10.1371/journal.pone.0344010. 
+eCollection 2026.
+
+A comparison of the existing recommendations for human and veterinary clinicians 
+on the management and prevention of the zoonotic aspects of dermatophytosis: A 
+scoping review.
+
+O'Connor C(1), Hollister D(1), Barlow R(2), Wainman H(3)(4), Ashmore A(5), 
+Morrow L(1), Stavisky J(6), Griffiths K(1), Kuhl C(6), Brennan ML(1).
+
+Author information:
+(1)School of Veterinary Medicine and Science, University of Nottingham, United 
+Kingdom.
+(2)Queen Elizabeth Hospital, Birmingham, United Kingdom.
+(3)Centre for Applied Excellence in Skin and Allergy Research (CAESAR), 
+University of Bristol Bristol, United Kingdom.
+(4)University Hospitals Bristol and Weston NHS Foundation Trust, Bristol 
+Dermatology Centre, Bristol Royal Infirmary, Bristol, United Kingdom.
+(5)University of Nottingham Libraries, The University of Nottingham, United 
+Kingdom.
+(6)VetPartners Head Office, York, United Kingdom.
+
+BACKGROUND: Dermatophytosis (or ringworm) is a highly infectious zoonotic 
+disease commonly found in humans and multiple animal species globally. With 
+children under 5 years of age being the most at risk human patient group, and 
+dermatophytosis the zoonosis most frequently contracted by veterinary 
+professionals in the UK from their patients, it is of significance to both human 
+and animal patients. Little is known as to whether there is recognition in both 
+human medical and veterinary guidance of the importance of their opposite 
+clinical counterpart. In addition, it is unknown whether the recommendations for 
+zoonotic disease management and prevention are complementary between the two 
+disciplines.
+OBJECTIVES: The aim of this scoping review was to assess all human medical and 
+veterinary guidelines pertaining to zoonotic dermatophytosis, to explore how the 
+zoonotic aspects of the disease were reported and to determine if there was 
+conflicting or complementary advice between the two disciplines on disease 
+management and prevention. Sources of evidence: Medline, CAB Abstracts, and 
+Embase were searched for relevant literature and the results assessed and 
+filtered using inclusion and exclusion criteria. A targeted grey literature 
+search was also performed.
+ELIGIBILITY CRITERIA: To be included, broadly all publications had to mention 
+dermatophytes or specifically named dermatophyte species, and mention 
+'guidelines' or 'protocols'. Publications needed to also mention terms relating 
+to 'zoonoses'; for veterinary publications, be focused on cattle, dogs and cats 
+and for human medical publications, mention the clinical manifestation of 
+dermatophytosis (e.g. tinea capitis). Some mention of risk factors for zoonotic 
+transmission needed to also be included.
+CHARTING METHODS: A data charting form was used to extract data pertaining to 
+dermatophyte species discussed, animal species discussed, prevalence and risk 
+factors, zoonotic risk factors, zoonotic recommendations for humans, 
+transmission, diagnostic testing, treatment, monitoring response to treatment, 
+and prevention and management from the included studies. A critical appraisal 
+process using the AGREE II tool was conducted to identify the common limitations 
+of the shortlisted published papers.
+RESULTS: Of the 554 human and 137 veterinary publications screened, 5 of each 
+publication source met the inclusion criteria. Although data were charted across 
+several variables, none of the publications used an evidence-based guideline 
+approach in their construction (e.g. GRADE, AGREE processes) and a significant 
+proportion of papers provided limited supporting evidence for their 
+recommendations. There were significant gaps and minimal synergies between 
+veterinary and human medicine recommendations. The human literature had limited 
+information pertaining to zoonotic recommendations.
+DISCUSSION: A minimal number of studies have been conducted regarding zoonotic 
+dermatophytosis, both in human medical and veterinary disciplines. There is a 
+lack of good quality, detailed information about the prevention and management 
+of the zoonotic aspects of the disease, indicating that there is a need for the 
+development of evidence-based guidelines to support human and veterinary 
+clinicians making decisions about these patients.
+CONCLUSION: Evidence-based guidelines, inclusive of high quality information 
+pertaining to the zoonotic aspects of the disease for both humans and animals, 
+should be generated. Ideally human and veterinary representatives would work 
+together to generate cohesive and complementary guidance.
+
+Copyright: © 2026 O’Connor et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0344010
+PMID: 41818298 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+2. HCA Healthc J Med. 2026 Feb 1;7(1):93-103. doi: 10.36518/2689-0216.2256. 
+eCollection 2026.
+
+Presentations of Cutaneous Disease in Various Skin Pigmentations: Tinea 
+Corporis.
+
+Van Alfen B(1), Peddireddy N(1), Hall M(1)(2), Lim H(1)(2), Scheufele C(1)(2), 
+Furth G(1)(2), Wilkes D(2), Carletti M(1)(2), Weis SE(1)(2).
+
+Author information:
+(1)University of North Texas Health Science Center, Fort Worth, Texas.
+(2)Medical City Fort Worth, Fort Worth, Texas.
+
+Background Tinea corporis is a common superficial fungal infection caused by 
+dermatophytes. It typically presents as well-defined, pruritic, annular papules 
+and plaques with central hypopigmentation. The differential diagnosis includes 
+pityriasis rosea, nummular dermatitis, plaque psoriasis, tinea versicolor, 
+granuloma annulare, and discoid lupus. This article compares different 
+presentations of tinea corporis in various skin types as classified by the 
+Fitzpatrick scale. Recognizing varying presentations of tinea in patients of 
+different skin tones will aid in early and appropriate diagnosis and treatment.
+
+© 2026 HCA Physician Services, Inc. d/b/a Emerald Medical Education.
+
+DOI: 10.36518/2689-0216.2256
+PMCID: PMC12971098
+PMID: 41810250
+
+Conflict of interest statement: Conflicts of Interest: The authors declare they 
+have no conflicts of interest.
+
+
+3. Rev Prat. 2026 Feb;76(2):178-179.
+
+[Complicated ringworm nodule].
+
+[Article in French]
+
+Ouissal H, Almheirat Y, Benhamed L, Zerrouki N, Zizi N.
+
+PMID: 41732943
+
+Conflict of interest statement: Les auteurs déclarent n’avoir aucun lien 
+d’intérêts.

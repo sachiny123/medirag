@@ -1,0 +1,7 @@
+Disease: Dengue
+
+Symptoms: skin rash, headache, back pain, high fever, fatigue, loss of appetite, chills, vomiting, pain behind the eyes, red spots over body, nausea, malaise, muscle pain, joint pain.
+
+Description: an acute infectious disease caused by a flavivirus (species Dengue virus of the genus Flavivirus), transmitted by aedes mosquitoes, and characterized by headache, severe joint pain, and a rash. — called also breakbone fever, dengue fever.
+
+Precautions: drink papaya leaf juice, avoid fatty spicy food, keep mosquitos away, keep hydrated.

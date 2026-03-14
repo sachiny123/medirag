@@ -1,0 +1,173 @@
+Topic: psoriasis
+
+PUBMED ABSTRACTS:
+
+1. J Dermatolog Treat. 2026 Dec;37(1):2640305. doi:
+10.1080/09546634.2026.2640305.  Epub 2026 Mar 13.
+
+Healthcare resource use of patients with mild-moderate psoriasis on systemic 
+treatments: a UK single-center longitudinal retrospective cohort study.
+
+Gribaleva E(1), Barker E(2), Hansell N(2), Dasandi T(3), Neville Q(1), Clifford 
+A(3), Gregory J(1), Bojke L(2), Moss JWE(2), Smith CH(3), Barker J(4), Pink 
+AE(3).
+
+Author information:
+(1)St. John's Institute of Dermatology, Guy's and St Thomas' NHS Foundation 
+Trust, London, United Kingdom.
+(2)York Health Economics Consortium, York, United Kingdom.
+(3)St John's Institute of Dermatology, Guy's and St Thomas' NHS Foundation Trust 
+and King's College London, London, United Kingdom.
+(4)King's College London, St John's Institute of Dermatology, London, United 
+Kingdom.
+
+BACKGROUND: Healthcare resource utilization (HCRU) costs in those on 
+conventional systemics for mild-moderate psoriasis are poorly described.
+OBJECTIVES: This study aimed to describe HRCU, disease severity and 
+health-related quality of life in patients with mild-moderate psoriasis 
+requiring systemic therapy.
+METHODS: UK single-center retrospective longitudinal cohort study including 
+adults with mild-moderate psoriasis (PASI < 10, no historical PASI ≥ 10, no 
+prior biologics) on conventional systemic therapy with 3-year data capture from 
+first PASI recording (2014-2019, pre-COVID). Patients discontinued due to 
+reaching PASI ≥ 10, starting biologics or being lost to follow-up.
+RESULTS: The median annual HCRU cost was £1923 (mean £3361), largely driven by 
+visit costs. A total of 50.8% patients achieved a PASI ≤ 2 and 30.6% achieved 
+PASI ≤ 2 and DLQI ≤ 5 during follow-up. The difference between the maximum and 
+minimum PASI for a patient and follow-up time were statistically significant 
+predictors of total costs (p < 0.05).
+CONCLUSION: Despite high healthcare costs, nearly half of the patients did not 
+achieve clear/nearly clear skin. These data, in the context of reducing costs 
+for biosimilars, may provide a basis to challenge care pathways and access 
+criteria for 'high-cost' treatments.
+
+Plain Language Summary: Psoriasis is a common chronic skin condition, but the 
+costs of treatment and care for the mild-to-moderate patient group are not well 
+understood. Most studies focus on severe psoriasis treated with high-cost 
+biologic drugs, but the majority of patients do not meet the access criteria for 
+these therapies. The authors aimed to explore the healthcare costs and progress 
+(including psoriasis severity and impact on quality of life) in patients with 
+mild-to-moderate psoriasis receiving systemic (tablet) treatments.Data were 
+collected from the electronic healthcare records of 124 adults with 
+mild-to-moderate psoriasis treated at one healthcare center from 2014 to 2019. 
+These patients had mild-moderate psoriasis, had never had severe psoriasis and 
+had never received biologic treatments. The information collected included 
+patient characteristics, healthcare visits, treatments, psoriasis severity and 
+skin-related quality of life for up to three years.The authors found that the 
+average annual healthcare costs per patient were £3,361 (€3,863), mostly 
+attributable to healthcare visits. However, despite ongoing treatment, nearly 
+half of the patient group did not achieve the optimal treatment target of clear 
+or nearly clear skin. It was noted that patients whose psoriasis severity 
+fluctuated had higher costs, suggesting that unstable disease is linked to 
+higher healthcare costs.This study has shown that managing mild-to-moderate 
+psoriasis with standard systemic treatment can be expensive, often without 
+achieving optimal results. Understanding the cost of treatment and patient 
+experience in this group is important to facilitate the ongoing review and 
+appropriateness of access criteria for more advanced therapies.
+
+DOI: 10.1080/09546634.2026.2640305
+PMID: 41822986 [Indexed for MEDLINE]
+
+
+2. Health Sci Rep. 2026 Mar 10;9(3):e72040. doi: 10.1002/hsr2.72040. eCollection 
+2026 Mar.
+
+Effects of Overload on Imiquimod-Induced Psoriasis Model Mice: A Basic 
+Experimental Study.
+
+Furutani T(1), Saito T(2), Ikeda A(3), Mashima K(3), Yukihiro N(3), Kusakabe 
+S(3), Nakamichi R(2), Yoshida A(2), Nishida K(4), Ozaki T(2).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Section of Medicine, Division of Medicine, 
+Dentistry, and Pharmaceutical Sciences, Graduate School of Medicine, Dentistry, 
+and Pharmaceutical Sciences Okayama University Okayama Japan.
+(2)Department of Orthopaedic Surgery Okayama University Graduate School of 
+Medicine, Dentistry, and Pharmaceutical Sciences Okayama Japan.
+(3)Okayama University Medical School Faculty of Medicine Okayama Japan.
+(4)Locomotive Pain Center Okayama University Hospital Okayama Japan.
+
+BACKGROUND AND AIM: Psoriasis is a skin disorder complicated by arthritis and 
+enthesitis. The cytokines interleukin (IL)-17, IL-23, and tumor necrosis factor 
+(TNF)-α are reportedly key effectors of psoriasis. Additionally, gamma delta 
+(γδ) T cells exacerbate inflammation by producing inflammatory cytokines such as 
+IL-17 and TNF-α. However, details regarding the mechanisms linking pathogenesis 
+and mechanical stress remain unclear. This study aimed to investigate the effect 
+of strenuous exercise on the pathology of psoriasis using mouse models of 
+imiquimod (IMQ)-induced psoriasis.
+METHODS: Twenty mice were randomly assigned to four groups: IMQ - TRED- 
+(control), IMQ - TRED+ (treadmill running mice), IMQ + TRED- group (IMQ treated 
+mice), and IMQ + TRED+ group (IMQ treated and treadmill running mice). The 
+tissue sections from back skin and thymus were immunostained with antibodies 
+against IL-17, IL-23, and γδ T cells. Shoulder sections were stained using 
+hematoxylin and eosin, and Toluidine Blue and Picrosirius Red. Additionally, the 
+shoulder tissue sections were immunostained with antibodies against TNF-α and 
+matrix metalloproteinase (MMP)-13. Serum cytokine level was measured to evaluate 
+systemic inflammation.
+RESULTS: Strenuous exercise exacerbated pathological changes associated with 
+psoriasis, including increased γδ T cell infiltration and upregulated IL-17 and 
+IL-23 expression in the skin, as well as enhanced γδ T cell development and 
+IL-17 expression in the thymus. Although strenuous exercise did not further 
+worsen the modified PASI scores, histological and immunological markers of 
+inflammation were significantly enhanced. Serum levels of TNF-α and IL-17 were 
+significantly elevated in IMQ-induced psoriasis model mice. Moreover, 
+pathological changes induced by strenuous exercise were observed in the 
+enthesis, including angiogenesis and upregulated expression of TNF-α and MMP-13.
+CONCLUSION: This study revealed that strenuous exercise exacerbates pathological 
+changes in IMQ-induced psoriasis model mice.
+
+© 2026 The Author(s). Health Science Reports published by Wiley Periodicals LLC.
+
+DOI: 10.1002/hsr2.72040
+PMCID: PMC12975650
+PMID: 41822761
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+3. Cureus. 2026 Feb 9;18(2):e103296. doi: 10.7759/cureus.103296. eCollection 2026
+ Feb.
+
+Ciclosporin-Induced Generalised Hypertrichosis in a Transgender Woman Receiving 
+Testosterone Blockers.
+
+Hemsley ZI(1), Khoo A(2).
+
+Author information:
+(1)Dermatology, University of Cambridge, Cambridge, GBR.
+(2)Dermatology, Addenbrooke's Hospital, Cambridge University Hospitals NHS 
+Foundation Trust, Cambridge, GBR.
+
+Hypertrichosis is a well-documented side effect of ciclosporin, yet it is rarely 
+encountered in dermatological practice. We present a case of hypertrichosis in a 
+transgender woman on testosterone-blocking therapy, illustrating that 
+ciclosporin can induce hypertrichosis even in the context of androgen 
+suppression. A 25-year-old transgender woman with severe plaque psoriasis 
+developed generalised hypertrichosis after commencing ciclosporin. She was 
+concurrently taking estradiol and triptorelin as part of gender-affirming 
+therapy. Hypertrichosis involved the arms, fingers, and face, leading to 
+distress and subsequent discontinuation of ciclosporin. The patient was 
+transitioned to adalimumab, which achieved good disease control without 
+recurrence of hypertrichosis. This appears to be the first documented case of 
+ciclosporin-induced hypertrichosis in a transgender woman receiving testosterone 
+blockers. Clinicians should remain mindful of this potential adverse effect and 
+its psychological impact when prescribing ciclosporin to transgender 
+individuals. Further research is warranted to clarify the role of sex hormones 
+in susceptibility to this side effect.
+
+Copyright © 2026, Hemsley et al.
+
+DOI: 10.7759/cureus.103296
+PMCID: PMC12978685
+PMID: 41822646
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Conflicts of interest: In compliance with the ICMJE uniform disclosure 
+form, all authors declare the following: Payment/services info: All authors have 
+declared that no financial support was received from any organization for the 
+submitted work. Financial relationships: All authors have declared that they 
+have no financial relationships at present or within the previous three years 
+with any organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.

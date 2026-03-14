@@ -1,0 +1,100 @@
+Topic: allergic dermatitis
+
+PUBMED ABSTRACTS:
+
+1. Georgian Med News. 2026 Jan;(370):243-249.
+
+OCCUPATIONAL ALLERGIC DERMATITIS IN METALWORKERS.
+
+Sanz-Gallen P(1), Herrera-Mozo I(1), Calvo-Cerrada B(1), Sanz-Ribas A(1), 
+Martí-Amengual G(1).
+
+Author information:
+(1)Unit of Occupational Medicine and Toxicology, Faculty of Medicine and Health 
+Sciences, University of Barcelona, Spain.
+
+BACKGROUND: Allergic contact dermatitis is a common inflammatory skin condition 
+triggered by exposure to specific allergens on metallurgy.
+OBJECTIVES: To describe ten cases of occupational contact dermatitis in 
+metalworkers, focusing on clinical presentation, latency, allergen 
+identification, and patch test results.
+METHODOLOGY: Ten workers (seven men and three women), primarily mechanics, 
+welders, and foundry workers, presented with dermatitis mainly affecting their 
+hands, forearms, neck, and face were studied.
+RESULTS: Patch testing demonstrated a high prevalence of sensitization to 
+metals, particularly cobalt chloride and nickel sulphate, often with severe 
+reactions and frequent co-sensitization. Other metals, such as vanadium and 
+potassium dichromate, were less common but clinically relevant in specific 
+occupational contexts. In several cases, additional sensitization to additives 
+in cutting oils was identified, indicating exposure to multiple allergens in 
+industrial settings. Latency periods varied considerably, from a few months to 
+several decades, with shorter latencies observed in individuals with a history 
+of contact allergy. Complete remission was achieved primarily after a job 
+change, while partial improvement was observed with the use of personal 
+protective equipment and medical monitoring.
+CONCLUSIONS: These findings underscore the crucial role of occupational exposure 
+to metals and industrial fluids in the development of contact dermatitis and 
+emphasize that effective allergen avoidance, including job modification, when 
+necessary, remains the most effective strategy for managing the condition in 
+affected workers.
+
+PMID: 41804158 [Indexed for MEDLINE]
+
+
+2. Medicine (Baltimore). 2026 Mar 6;105(10):e47892. doi: 
+10.1097/MD.0000000000047892.
+
+The clinical and multimodal imaging features of IgG4-related dacryoadenitis with 
+coexisting vitiligo: A case report.
+
+Tian T(1), Feng L.
+
+Author information:
+(1)Department of Ophthalmology, Sir Run Run Shaw Hospital, Zhejiang University 
+School of Medicine, Hangzhou, Zhejiang, China.
+
+RATIONALE: IgG4-related dacryoadenitis is an ocular manifestation of 
+IgG4-related disease. Reports on its multimodal imaging features, particularly 
+the manifestations on color Doppler ultrasound, are rare.
+PATIENT CONCERNS: A 76-year-old woman experienced persistent edema of the 
+bilateral upper eyelids for more than 2 years, with a medical history of 
+vitiligo, allergic dermatitis, and hypertension. Physical examination revealed 
+enlarged lacrimal glands with palpable, firm, and movable nodules, accompanied 
+by swollen eyelids and swollen lymph nodes in front of the ears. Color Doppler 
+ultrasound showed the lacrimal glands were markedly enlarged bilaterally, rich 
+in blood supply. Orbital computed tomography highlighted diffuse enlargement of 
+the lacrimal glands bilaterally, with slightly higher density. Serum IgG4 levels 
+were elevated.
+DIAGNOSES: IgG4 related dacryoadenitis.
+INTERVENTIONS: A biopsy of left lacrimal gland was performed and 
+methylprednisolone 20 mg/day was prescribed and then tapered.
+OUTCOMES: Her symptoms improved significantly 1 week after treatment. Serum IgG4 
+levels gradually decreased. At the 6-month follow-up, the condition was stable.
+LESSONS: IgG4-related dacryoadenitis should be considered in the differential 
+diagnosis of unexplained lacrimal gland enlargement. The association between 
+IgG4-related dacryoadenitis and concurrent vitiligo requires further 
+investigation.
+
+Copyright © 2026 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000047892
+PMCID: PMC12975203
+PMID: 41790699 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no funding and conflicts of 
+interest to disclose.
+
+
+3. Contact Dermatitis. 2026 Mar 2. doi: 10.1111/cod.70112. Online ahead of print.
+
+Systemic Allergic Dermatitis to a Titanium Metal Plate Used to Repair an Ankle 
+Fracture.
+
+Fuller J(1), Nixon R(1).
+
+Author information:
+(1)Occupational Dermatology Research and Education Centre, Skin Health 
+Institute, Melbourne, Australia.
+
+DOI: 10.1111/cod.70112
+PMID: 41771783

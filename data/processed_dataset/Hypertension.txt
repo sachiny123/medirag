@@ -1,0 +1,7 @@
+Disease: Hypertension
+
+Symptoms: chest pain, headache, dizziness, loss of balance, lack of concentration.
+
+Description: Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms.
+
+Precautions: meditation, salt baths, reduce stress, get proper sleep.

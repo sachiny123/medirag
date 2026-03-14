@@ -1,0 +1,134 @@
+Topic: impetigo
+
+PUBMED ABSTRACTS:
+
+1. J Parasitol Res. 2026 Mar 5;2026:8631800. doi: 10.1155/japr/8631800.
+eCollection  2026.
+
+Burden and Experiences of Head Lice Infestation Among Children in Western 
+Australia.
+
+Barrow T(1)(2)(3), Enkel S(1)(4), Thomas H(1)(5), Amgarth-Duff I(1)(5), McRae 
+T(1)(4), Anderson L(6), Marsh J(1), Burgess R(1), Newton R(7), Bowen A(1)(4)(8).
+
+Author information:
+(1)Wesfarmers Centre of Vaccines and Infectious Diseases, The Kids Research 
+Institute, Perth, Western Australia, Australia.
+(2)School of Medicine, The University of Notre Dame Australia, Fremantle, 
+Western Australia, Australia, nd.edu.au.
+(3)Western Australian Country Health Service, Government of Western Australia, 
+Perth, Western Australia, Australia, wa.gov.au.
+(4)Medical School, The University of Western Australia, Perth, Western 
+Australia, Australia, uwa.edu.au.
+(5)School of Biomedical Sciences, Microbiology and Immunology, The University of 
+Western Australia, Perth, Western Australia, Australia, uwa.edu.au.
+(6)Kimberley Aboriginal Medical Services, Broome, Western Australia, Australia.
+(7)Royal Perth Hospital, Perth, Western Australia, Australia, rph.wa.gov.au.
+(8)Department of Infectious Diseases, Perth Children's Hospital, Nedlands, 
+Western Australia, Australia.
+
+BACKGROUND: Head lice is an ectoparasitic skin infection commonly seen in 
+primary school-aged children. In remote Australia, where rates of other skin 
+infections and downstream sequelae are endemic, the rate of head lice 
+infestation is unknown.
+METHODS: This multimethod observational study is aimed at describing the burden 
+of head lice for remote-residing children from nine communities in the 
+Kimberley, Western Australia. Qualitative and quantitative data collected by the 
+See, Treat, Prevent Skin Sores and Scabies ('SToP') Trial at 10 timepoints 
+between May 2019 and December 2022 were analysed to understand head lice rates 
+and community perspectives.
+FINDINGS: Across the Kimberley over the course of the study, the mean head lice 
+prevalence was 48.4% (SD 15.3). Of children with head lice detected at any 
+timepoint (n = 554), repeated detection occurred at a rate of 66.8% (370/554). 
+Head lice was mentioned in 42 yarning sessions with community members and 
+service providers. Community voice reflected repeated head lice infestation to 
+be detrimental to the physical and psychological well-being of children. Much of 
+the discussion focussed on prevention of secondary bacterial infections and 
+improving the quality and maintenance of housing to provide for healthy 
+practices to reduce the rates of head lice.
+CONCLUSION: In remote-residing Australian Aboriginal children, there is a high 
+burden of head lice. Community members reflected the impact of head lice on 
+children's well-being and focused on addressing contributing environmental 
+factors and preventing secondary bacterial infection.
+TRIAL REGISTRATION: Australian New Zealand Clinical Trials Registry Number: 
+ACTRN12618000520235.
+
+Copyright © 2026 Tina Barrow et al. Journal of Parasitology Research published 
+by John Wiley & Sons Ltd.
+
+DOI: 10.1155/japr/8631800
+PMCID: PMC12961354
+PMID: 41799404
+
+Conflict of interest statement: The authors declare affiliations with the WA 
+Country Health Service and Kimberley Aboriginal Medical Service.
+
+
+2. J Am Acad Dermatol. 2026 Mar 2:S0190-9622(26)00322-1. doi: 
+10.1016/j.jaad.2025.12.127. Online ahead of print.
+
+Part I. The role of Staphylococcus aureus in the pathophysiology of dermatologic 
+disease.
+
+Sila Yuksel S(1), Gallo RL(1), Hata TR(2).
+
+Author information:
+(1)University of California San Diego Department of Dermatology, 9500 Gilman 
+Drive, La Jolla, CA 92093-0869.
+(2)University of California San Diego Department of Dermatology, 9500 Gilman 
+Drive, La Jolla, CA 92093-0869. Electronic address: thata@health.ucsd.edu.
+
+In this first part of a two-part continuing medical education series, we examine 
+the impact of Staphylococcus aureus (S. aureus) resistance and its pathogenic 
+mechanisms, such as toxins, virulence factors, superantigens, quorum sensing, 
+and biofilm formation. Next, we explore how S. aureus infection contributes to 
+delayed wound healing, impetigo, and staphylococcal scalded skin syndrome. 
+Additionally, S. aureus plays a crucial role in the pathophysiology of 
+dermatologic diseases that goes beyond infection, including atopic dermatitis, 
+cutaneous T-cell lymphoma, epidermolysis bullosa, and others. Understanding S. 
+aureus will help dermatologists better understand and more effectively treat 
+various skin conditions.
+
+Copyright © 2026. Published by Elsevier Inc.
+
+DOI: 10.1016/j.jaad.2025.12.127
+PMID: 41780601
+
+
+3. Microorganisms. 2026 Feb 3;14(2):357. doi: 10.3390/microorganisms14020357.
+
+Group A Streptococcal Virulence Factors and Vaccine Development-An Update.
+
+Fan S(1), Tsai CJ(1)(2), Loh JMS(1)(2), Proft T(1)(2).
+
+Author information:
+(1)Department of Molecular Medicine, School of Medical Sciences, The University 
+of Auckland, Auckland 1010, New Zealand.
+(2)Maurice Wilkins Centre for Molecular Biodiscovery, Auckland 1010, New 
+Zealand.
+
+A Group A Streptococcus (GAS, Streptococcus pyogenes) is an exclusively human 
+pathogen whose virulence is driven by a diverse array of surface structures, 
+secreted toxins, and immune evasion mechanisms. Central to its pathogenicity is 
+the M protein, a surface-anchored molecule that inhibits phagocytosis by 
+interfering with complement deposition and binding host factors such as 
+fibrinogen. GAS also secretes a wide range of toxins and enzymes that damage 
+tissues and disrupt host defences. Streptolysin O and streptolysin S are potent 
+cytolysins that lyse immune cells and contribute to tissue necrosis. Pyrogenic 
+exotoxins (such as SpeA and SpeC) act as superantigens, triggering massive, 
+dysregulated T cell activation and cytokine release, an underlying mechanism in 
+streptococcal toxic shock syndrome. Additional factors like DNases and 
+streptokinase facilitate bacterial spread by breaking down host tissue and 
+counteracting neutrophil extracellular traps (NETs). Immune evasion is further 
+supported by the production of enzymes that interfere with complement functions, 
+like the cleavage of chemokines and the targeting of antibodies. Together, these 
+virulence determinants allow GAS to cause a wide spectrum of diseases, ranging 
+from uncomplicated pharyngitis and impetigo to invasive conditions like 
+necrotising fasciitis and sepsis. This review provides a timely overview of the 
+important GAS virulence factors and an update on the current vaccine landscape.
+
+DOI: 10.3390/microorganisms14020357
+PMCID: PMC12943672
+PMID: 41753644
+
+Conflict of interest statement: The authors declare no conflicts of interest.

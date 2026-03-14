@@ -1,0 +1,7 @@
+Disease: Hepatitis E
+
+Symptoms: yellowish skin, coma, high fever, abdominal pain, fatigue, yellowing of eyes, loss of appetite, dark urine, stomach bleeding, vomiting, acute liver failure, nausea, joint pain.
+
+Description: A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease.
+
+Precautions: stop alcohol consumption, rest, consult doctor, medication.

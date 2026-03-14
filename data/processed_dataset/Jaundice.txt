@@ -1,0 +1,7 @@
+Disease: Jaundice
+
+Symptoms: yellowish skin, high fever, weight loss, fatigue, dark urine, vomiting, itching, abdominal pain.
+
+Description: Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the "morbus regius" (the regal disease) in the belief that only the touch of a king could cure it
+
+Precautions: drink plenty of water, consume milk thistle, eat fruits and high fiberous food, medication.

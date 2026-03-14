@@ -1,0 +1,121 @@
+Topic: fungal infection
+
+PUBMED ABSTRACTS:
+
+1. Thorac Cancer. 2026 Mar;17(6):e70258. doi: 10.1111/1759-7714.70258.
+
+A Meta-Analysis on the Incidence and Associated Factors of Pulmonary Fungal 
+Infections in Lung Cancer Patients: Evidence Predominantly From Chinese Studies 
+in the Chinese and English Literature.
+
+Deng L(1), Yu R(2), Chen B(1).
+
+Author information:
+(1)Department of Thoracic Surgery, Shanghai Pulmonary Hospital, Tongji 
+University School of Medicine, Shanghai, China.
+(2)Medical Department, Shanghai Antidotes Consulting Co., Ltd., Shanghai, China.
+
+BACKGROUND: Previous studies report variation in the incidence of pulmonary 
+fungal infection rates and associated factors in lung cancer patients. This 
+meta-analysis aimed to provide a comprehensive synthesis of Chinese- and 
+English-language studies to investigate the incidence of pulmonary fungal 
+infections and their associated factors in these patients.
+METHODS: Studies reporting the incidence of pulmonary fungal infections or their 
+associated factors in lung cancer patients were systematically searched in the 
+WanFang, CNKI, EMBASE, SinoMed, Web of Science, and PubMed databases until April 
+2025.
+RESULTS: In total, 37 studies involving 26 841 lung cancer patients were 
+included. The pooled pulmonary fungal infection rate (95% confidence interval) 
+was 14.00% (12.54%-15.45%) in lung cancer patients. Age ≥ 60 years (odds ratio 
+(OR) = 1.85, p = 0.020), male sex (OR = 1.23, p = 0.019), smoking history 
+(OR = 2.24, p < 0.001), chronic obstructive pulmonary disease (OR = 2.19, 
+p = 0.010), interstitial lung disease (OR = 4.40, p < 0.001), diabetes 
+(OR = 2.31, p < 0.001), anemia (OR = 6.47, p = 0.016), small cell lung cancer 
+(OR = 1.46, p = 0.011), squamous cell carcinoma (OR = 1.38, p = 0.001), tumor 
+stages of III-IV (OR = 2.38, p < 0.001), invasive operation (OR = 3.73, 
+p < 0.001), chemotherapy (OR = 1.64, p = 0.011), chemotherapy cycle > 2 
+(OR = 2.87, p < 0.001), radiotherapy (OR = 1.67, p = 0.001), chemoradiotherapy 
+(OR = 2.72, p < 0.001), surgery (OR = 1.64, p < 0.001), long-term use of 
+antibiotics (OR = 5.64, p = 0.002), use of glucocorticoid (OR = 4.44, 
+p < 0.001), and hospital stays ≥ 14 days (OR = 3.97, p = 0.006) were linked with 
+higher pulmonary fungal infection risk.
+CONCLUSION: The pulmonary fungal infection rate (95% CI) was 14.00% (12.54%, 
+15.45%) in lung cancer patients. Furthermore, the associated factors might help 
+screen for and intervene early in pulmonary fungal infections in patients with 
+lung cancer.
+
+© 2026 The Author(s). Thoracic Cancer published by John Wiley & Sons Australia, 
+Ltd.
+
+DOI: 10.1111/1759-7714.70258
+PMID: 41822960 [Indexed for MEDLINE]
+
+
+2. Open Forum Infect Dis. 2026 Feb 28;13(3):ofag090. doi: 10.1093/ofid/ofag090. 
+eCollection 2026 Mar.
+
+Liver Necrosis in a Patient Receiving Isavuconazole: Making the Case for 
+Therapeutic Drug Monitoring.
+
+Miceli MH(1), Eschenauer GA(2), Kauffman CA(1).
+
+Author information:
+(1)Division of Infectious Diseases, Department of Internal Medicine, University 
+of Michigan, Ann Arbor, Michigan, USA.
+(2)Department of Clinical Pharmacy, College of Pharmacy, University of Michigan, 
+Ann Arbor, Michigan, USA.
+
+An 81-year-old man prescribed isavuconazole for pulmonary fungal infection 
+developed high serum transaminase levels and biopsy-confirmed hepatic necrosis 
+associated with prolonged high serum isavuconazole levels. Genotyping revealed 
+poor CYP3A5 activity/normal CYP3A4 activity. Older age and slow isavuconazole 
+elimination likely led to isavuconazole-associated hepatic toxicity. This case 
+underscores the importance of isavuconazole therapeutic drug monitoring.
+
+© The Author(s) 2026. Published by Oxford University Press on behalf of 
+Infectious Diseases Society of America.
+
+DOI: 10.1093/ofid/ofag090
+PMCID: PMC12978533
+PMID: 41822374
+
+Conflict of interest statement: Potential conflicts of interest. M. H. M. is a 
+consultant for Scynexis and participates as primary investigator in clinical 
+trials sponsored by Scynexis (GSK), F2G and Pulmocide. All other authors report 
+no potential conflicts.
+
+
+3. J Surg Case Rep. 2026 Mar 11;2026(3):rjag136. doi: 10.1093/jscr/rjag136. 
+eCollection 2026 Mar.
+
+Emergency staged Whipple procedure for gastroduodenal mucormycosis: a rare 
+life-saving intervention.
+
+Raya A(1), Mishra RK(1), Shrestha A(1), Yadav BK(1), Parajuli B(1), Bhandari 
+K(2).
+
+Author information:
+(1)Department of General Surgery, Chitwan Medical College, Bharatpur, Nepal.
+(2)Department of Internal Medicine, KIST Medical College and Teaching Hospital, 
+Gwarko, Lalitpur, Nepal.
+
+Gastrointestinal (GI) mucormycosis is a rare, angioinvasive disease with a high 
+mortality rate. To prevent dissemination of infection, early surgical resections 
+of affected areas and initiation of antifungals are necessary. Unfortunately, 
+due to its rarity, diagnosis, and treatment are often delayed. Here, we have 
+described a case of a 22-year-old with gastroduodenal mucormycosis. Initially 
+radiological findings were thought to be a sequela of changes for gastric 
+volvulus or pancreatitis. GI mucormucosis was later confirmed with tissue 
+histopathology. He underwent staged emergency Whipple's procedure and was 
+started on antifungals. Fortunately, due to early intervention the patient 
+recovered without complications.
+
+© The Author(s) 2026. Published by Oxford University Press and JSCR Publishing 
+Ltd.
+
+DOI: 10.1093/jscr/rjag136
+PMCID: PMC12978648
+PMID: 41821973
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest regarding the publication of this article.

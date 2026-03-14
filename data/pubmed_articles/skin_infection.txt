@@ -1,0 +1,162 @@
+Topic: skin infection
+
+PUBMED ABSTRACTS:
+
+1. J Trop Med. 2026 Mar 11;2026:1456781. doi: 10.1155/jotm/1456781. eCollection 
+2026.
+
+Optimizing a Conventional Multiplex PCR for Simultaneous Detection of 
+Granulomatous Skin Infection Agents: Leishmania aethiopica, Mycobacterium 
+leprae, and Mycobacterium tuberculosis.
+
+Girma S(1)(2), Gemeda M(2), Woldesemayat A(2), Alemayehu D(1), Deneke D(3), 
+Mekonen S(4), Doni S(4), Beliye H(1), Zewdu FT(5), Kumssa T(1), Kidane T(6), 
+Chanyalew M(1), Abdissa A(1), Alemayehu M(1), Bobosha K(1), Gadisa E(1).
+
+Author information:
+(1)Armauer Hansen Research Institute, Addis Ababa, Ethiopia, ahri.gov.et.
+(2)Biotechnology and Bioprocess Centre of Excellence, Addis Ababa Science and 
+Technology University, Addis Ababa, Ethiopia, aastu.edu.et.
+(3)Department of Pathology, School of Medicine, Addis Ababa University College 
+of Health Science, Addis Ababa, Ethiopia.
+(4)Dermatology Unit, ALERT Comprehensive Specialized Hospital, Addis Ababa, 
+Ethiopia.
+(5)Boru Meda General Hospital, Dessie, Amhara Region, Ethiopia.
+(6)Department of Dermatology & Venerology, School of Medicine, School of 
+Medicine, Addis Ababa University College of Health Science, Addis Ababa, 
+Ethiopia.
+
+BACKGROUND: Conventional polymerase chain reaction (PCR) assays are 
+well-established molecular techniques that can be integrated as standard 
+diagnostic tools, especially in referral settings. This study aimed to assess 
+the diagnostic potential of a multiplex PCR (mPCR) assay for the diagnosis of 
+cutaneous leishmaniasis (CL), skin tuberculosis, and leprosy.
+METHOD: A cross-sectional study was carried out involving 62 patients in the 
+study group, comprising 45 with CL, 9 with leprosy, 4 with skin tuberculosis, 
+and 4 with coinfections. Additionally, 112 positive control DNA samples were 
+analyzed, including 37 of M. tuberculosis, 46 of M. leprae, and 29 of L. 
+aethiopica. The study assessed sensitivity, specificity, positive predictive 
+value (PPV), negative predictive value (NPV), and detection limits.
+RESULTS: Sensitivity and specificity of the mPCR on positive and negative 
+control samples were 100% (95% CI: 96.8%-100%) and 100% (95% CI: 94.9%-100%), 
+respectively. Its sensitivity and specificity among the study group were 75.8% 
+(95% CI: 63.3%-85.8%) and 100% (95% CI: 94.9%-100.0%), respectively.
+CONCLUSIONS: With further validation on more clinical suspects, mPCR has the 
+potential to facilitate diagnosis in settings with coendemic CL, leprosy, and 
+skin tuberculosis.
+
+Copyright © 2026 Selfu Girma et al. Journal of Tropical Medicine published by 
+John Wiley & Sons Ltd.
+
+DOI: 10.1155/jotm/1456781
+PMCID: PMC12976814
+PMID: 41821619
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. EMBO Mol Med. 2026 Mar 11. doi: 10.1038/s44321-026-00392-x. Online ahead of 
+print.
+
+Metabolically reprogrammed eosinophils impair T cell immunity and cause chronic 
+skin infection.
+
+Barinberg D(1), Sebald H(1), Gold T(1), Rai B(1), Radtke D(2), Lerm D(3), 
+Voehringer D(2)(4), Jantsch J(5), Wirtz S(4)(6)(7), Antonova AU(8), Colonna 
+M(8), Bogdan C(#)(9)(10), Schleicher U(#)(11)(12).
+
+Author information:
+(1)Mikrobiologisches Institut - Klinische Mikrobiologie, Immunologie und 
+Hygiene, Universitätsklinikum Erlangen and Friedrich-Alexander-Universität (FAU) 
+Erlangen-Nürnberg, D-91054, Erlangen, Germany.
+(2)Infektionsbiologische Abteilung, Universitätsklinikum Erlangen and 
+Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, D-91054, Erlangen, 
+Germany.
+(3)Chair of Medical Informatics, Friedrich-Alexander-Universität (FAU) 
+Erlangen-Nürnberg, D-91058, Erlangen, Germany.
+(4)FAU Profile Center Immunomedicine (FAU I-Med), D-91054, Erlangen, Germany.
+(5)Institute for Medical Microbiology, Immunology, and Hygiene and Center for 
+Molecular Medicine Cologne, University Hospital Cologne and Faculty of Medicine, 
+University of Cologne, Köln, D-50935, Germany.
+(6)Department of Medicine 1, Universitätsklinikum Erlangen and 
+Friedrich-Alexander-Universität (FAU) Erlangen-Nürnberg, D-91054, Erlangen, 
+Germany.
+(7)Deutsches Zentrum für Immuntherapie (DZI), Erlangen, Germany.
+(8)Department of Pathology and Immunology, Washington University School of 
+Medicine, Saint Louis, MO, 63110, USA.
+(9)Mikrobiologisches Institut - Klinische Mikrobiologie, Immunologie und 
+Hygiene, Universitätsklinikum Erlangen and Friedrich-Alexander-Universität (FAU) 
+Erlangen-Nürnberg, D-91054, Erlangen, Germany. christian.bogdan@uk-erlangen.de.
+(10)FAU Profile Center Immunomedicine (FAU I-Med), D-91054, Erlangen, Germany. 
+christian.bogdan@uk-erlangen.de.
+(11)Mikrobiologisches Institut - Klinische Mikrobiologie, Immunologie und 
+Hygiene, Universitätsklinikum Erlangen and Friedrich-Alexander-Universität (FAU) 
+Erlangen-Nürnberg, D-91054, Erlangen, Germany. ulrike.schleicher@uk-erlangen.de.
+(12)FAU Profile Center Immunomedicine (FAU I-Med), D-91054, Erlangen, Germany. 
+ulrike.schleicher@uk-erlangen.de.
+(#)Contributed equally
+
+Eosinophils exhibit antimicrobial, cytotoxic and immunoregulatory effects, but 
+our knowledge of their transcriptional and functional heterogeneity is still 
+limited, especially in non-intestinal tissues. Here, we used a mouse model of 
+chronic cutaneous inflammation elicited by the protozoan pathogen Leishmania 
+mexicana to investigate the function and transcriptional dynamics of skin 
+eosinophils. Infection of C57BL/6 mice triggered local and systemic eosinophilia 
+that was driven by type 2 innate lymphoid cells and interleukin-5. Genetic and 
+pharmacological eosinophil depletion led to an enhanced Th1 response, 
+polarization towards M1-like macrophages and resolution of clinical disease, 
+despite an unexpected simultaneous upregulation of IL-4. Single-cell 
+transcriptomics revealed a skin-imprinted trajectory of inflammatory eosinophils 
+that strongly expressed the glucose transporter Slc2a3 (GLUT3) These eosinophils 
+impeded the function of Th1 cells by forming a competitive metabolic niche 
+through preferential glucose uptake. Our findings uncover an inflammatory, 
+metabolically reprogrammed eosinophil population that promotes chronic skin 
+inflammation by limiting protective T cell responses.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s44321-026-00392-x
+PMID: 41813911
+
+Conflict of interest statement: Disclosure and competing interests statement. 
+The authors declare no competing interests.
+
+
+3. J Clin Tuberc Other Mycobact Dis. 2026 Feb 24;43:100594. doi: 
+10.1016/j.jctube.2026.100594. eCollection 2026 May.
+
+Disseminated Mycobacterium haemophilum causing granulomatous mastitis.
+
+Rattin J(1), Miranda C(2), Harrington S(1), Duckworth LA(3), Hoda R(1), McIntire 
+PJ(1).
+
+Author information:
+(1)Pathology and Laboratory Medicine Institute, Cleveland Clinic, Cleveland, OH, 
+USA.
+(2)Department of Infectious Disease, Cleveland Clinic, Cleveland, OH, USA.
+(3)Laboratory and Pathology Diagnostics, Naperville, IL, USA.
+
+We present the case of a 58-year-old female with celiac disease, obesity, and 
+recently diagnosed type 2 diabetes mellitus who developed a rash on her left 
+thigh which spread and progressed to her arms, face, and abdomen. A biopsy of 
+the left forearm grew Mycobacterium haemophilum. Weeks after the diagnosis of 
+the M. haemophilum skin infection, the patient underwent a screening mammogram 
+which showed new masses in both breasts. A biopsy of a left breast mass revealed 
+cystic granulomatous inflammation with scattered neutrophils and lymphocytes 
+within fibroadipose tissue. PCR and sequencing from breast tissue and AFB 
+culture confirmed M. haemophilum. The patient was also later diagnosed with 
+sinonasal involvement. No underlying immunodeficiency has been identified. This 
+case highlights dissemination of M. haemophilum to multiple sites including 
+skin, breast, and sinonasal tissues in a diabetic patient who was not otherwise 
+immunocompromised. To our knowledge, it is the first reported case of 
+granulomatous mastitis caused by M. haemophilum.
+
+© 2026 Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jctube.2026.100594
+PMCID: PMC12969140
+PMID: 41808736
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

@@ -1,0 +1,135 @@
+Topic: contact dermatitis
+
+PUBMED ABSTRACTS:
+
+1. Cureus. 2026 Feb 9;18(2):e103289. doi: 10.7759/cureus.103289. eCollection 2026
+ Feb.
+
+Use of Castor Oil in Dermatology: A Narrative Review.
+
+Girdler K(1), Cabatu A(1), Olds H(2), Potts GA(2).
+
+Author information:
+(1)Dermatology, Wayne State University School of Medicine, Detroit, USA.
+(2)Dermatology, Wayne State University, Detroit, USA.
+
+Castor oil, derived from the seeds of Ricinus communis, has a long history of 
+use in traditional medicine and cosmetics. This review examines the current 
+dermatological applications of castor oil, highlighting both its therapeutic 
+potential and safety profile. A comprehensive literature search was conducted 
+using PubMed and Google Scholar to identify studies evaluating castor oil in the 
+treatment or enhancement of treatments for various dermatologic conditions. 
+Evidence supports its use in hair care for improving luster and possibly 
+combating androgenic alopecia via inhibition of prostaglandin D2 synthesis. This 
+review also highlights the efficacy of castor oil in reducing hyperpigmentation 
+and improving hydration, elasticity, and signs of aging through its antioxidant 
+properties. Additionally, castor oil has been added to various formulations to 
+increase drug penetration and cleansing efficacy with fewer irritant effects. 
+Though generally well tolerated, rare adverse effects such as contact dermatitis 
+and hair felting have been reported. Castor oil shows promise as a versatile and 
+accessible agent in dermatology, warranting further clinical investigation to 
+fully establish its efficacy and optimal use.
+
+Copyright © 2026, Girdler et al.
+
+DOI: 10.7759/cureus.103289
+PMCID: PMC12978418
+PMID: 41822610
+
+Conflict of interest statement: Conflicts of interest: In compliance with the 
+ICMJE uniform disclosure form, all authors declare the following: 
+Payment/services info: All authors have declared that no financial support was 
+received from any organization for the submitted work. Financial relationships: 
+All authors have declared that they have no financial relationships at present 
+or within the previous three years with any organizations that might have an 
+interest in the submitted work. Other relationships: All authors have declared 
+that there are no other relationships or activities that could appear to have 
+influenced the submitted work.
+
+
+2. Contact Dermatitis. 2026 Mar 12. doi: 10.1111/cod.70137. Online ahead of
+print.
+
+Occupational Contact Urticaria, Protein Contact Dermatitis and Concomitant 
+Airway Diseases in the Finnish Register of Occupational Diseases in 2005-2020: 
+Main Causes and Occupations at Risk.
+
+Ojanen V(1), Airaksinen L(2), Suojalehto H(2), Koskela K(1), Pesonen M(2).
+
+Author information:
+(1)Occupational Medicine, Finnish Institute of Occupational Health, Tampere, 
+Finland.
+(2)Occupational Medicine, Finnish Institute of Occupational Health, Helsinki, 
+Finland.
+
+BACKGROUND: Occupational contact urticaria (OCU) and protein contact dermatitis 
+(PCD) may co-exist with occupational asthma (OA) and occupational rhinitis (OR) 
+and be caused by the same allergen. These diseases are commonly caused by 
+immediate (immunoglobulin E (IgE)-mediated) allergic sensitisation. Limited data 
+exist on the prevalence and causes of concomitant occupational skin and airway 
+diseases (CSAD).
+OBJECTIVES: To analyse data from the Finnish Register of Occupational Diseases 
+(FROD) for prevalence, main causes, and at-risk occupations for concomitant 
+occupational skin and airway diseases.
+METHODS: Data on recognised cases of OCU, PCD, OA and OR in the years 2005-2020 
+(n = 2413) were retrieved from FROD and analysed.
+RESULTS: Among OCU/PCD cases, 27% had OA, OR, or both. Conversely, 10% of OA 
+cases and 14% of OR cases had OCU/PCD. Concomitant diseases were most common in 
+farming, animal care, and food-related jobs. Shared causative exposures were 
+identified in 89% of cases, with cow dander, wheat flour, and chemicals being 
+the most frequent.
+CONCLUSIONS: Concomitant occupational skin and airway diseases caused by shared 
+work-related allergens are relatively common. When evaluating patients with 
+occupational immediate allergy, both skin and airway symptoms should be 
+considered.
+
+© 2026 The Author(s). Contact Dermatitis published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/cod.70137
+PMID: 41819612
+
+
+3. J Am Acad Dermatol. 2026 Mar 10:S0190-9622(26)00389-0. doi: 
+10.1016/j.jaad.2026.03.017. Online ahead of print.
+
+Occupational Contact Dermatitis in North American Healthcare Workers: Trends & 
+Triggers (2005-2022).
+
+Reeder MJ(1), Betancourt Ponce M(2), Patel V(3), Warshaw EM(4), Atwater AR(5), 
+DeKoven JG(6), Adler BL(7), Belsito DV(8), Silverberg JI(9), Taylor JS(10), 
+Dunnick CA(11), Wu P(12), Zippin J(13), DeLeo VA(7), Mowad CM(14), Houle MC(15), 
+Yu J(16), Pratt MD(17), Botto N(18).
+
+Author information:
+(1)Department of Dermatology, University of Wisconsin School of Medicine and 
+Public Health, Madison, WI. Electronic address: mreeder@dermatology.wisc.edu.
+(2)University of Wisconsin School of Medicine and Public Health, Madison, WI.
+(3)University of Wisconsin School of Education, Madison, WI.
+(4)Department of Dermatology, Park Nicollet Health Services, Minneapolis, MN; 
+Department of Dermatology, Minneapolis Veterans Affairs Medical Center, 
+Minneapolis, MN; Department of Dermatology, University of Minnesota, 
+Minneapolis, MN.
+(5)Department of Dermatology, Duke University Medical Center, Durham, NC.
+(6)Division of Dermatology, Sunnybrook Health Sciences Centre, University of 
+Toronto, Ontario, Canada.
+(7)Department of Dermatology, Keck School of Medicine, University of Southern 
+California, Los Angeles, CA.
+(8)Department of Dermatology, NYU Langone Medical Center and Columbia University 
+Irving Medical School, New York, NY.
+(9)Department of Dermatology, The George Washington University School of 
+Medicine and Health Sciences, Washington DC.
+(10)Department of Dermatology, Cleveland Clinic, Cleveland, OH.
+(11)Department of Dermatology, University of Colorado Anschutz Medical Campus, 
+Aurora, CO; Rocky Mountain Regional Veterans Affairs Medical Center, Aurora, CO.
+(12)Department of Dermatology, University of California, Davis, CA.
+(13)Weill Cornell Medical College of Cornell University, New York, NY.
+(14)Department of Dermatology, Geisinger Medical Center, Danville, PA.
+(15)Division of Dermatology, CHU de Quebec, Laval University, Quebec City, 
+Quebec, Canada.
+(16)Department of Dermatology, Massachusetts General Hospital, Harvard Medical 
+School, Boston, MA.
+(17)Division of Dermatology, University of Ottawa, Ontario, Canada.
+(18)Department of Dermatology, University of California, San Francisco, CA.
+
+DOI: 10.1016/j.jaad.2026.03.017
+PMID: 41819230
